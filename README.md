@@ -9,4 +9,4 @@ Python file contains code with Exploratory Data Analytics including graphs and M
 
 A jupyter notebook styled file can be seen here: https://app.mode.com/editor/amamatov/reports/a7cb4172597c/notebook
 
-![Alt text] (https://github.com/saidamir/Churn_prediction_model/issues/1)
+![Alt text](https://github.com/saidamir/Churn_prediction_model/issues/1)
