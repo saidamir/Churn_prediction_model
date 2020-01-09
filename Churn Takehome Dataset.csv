@@ -1,0 +1,2001 @@
+AccountID,Account_Age,Seats,Paid_status,boards_last_30_days,projects_last_30_days,DAU_avg_last_30_days,integrations_count,Integrations_names,Templates_last_30_days
+4505926,122,18,Paying,244,14,13,5,"Google, Slack, Zapier, Azure Cards, MS Team",22
+1005807,33,1,Churned,49,7,1,4,"Google, Jira, Slack, Dropbox",36
+6546087,31,44,Paying,46,32,38,4,"Slack, Zapier, MS Team, Azure Cards",77
+8471398,64,20,Paying,160,87,14,3,"Jira, Slack, Zapier",44
+2476200,87,58,Paying,87,32,49,1,Zapier,98
+3244878,233,7,Paying,349,216,4,2,"MS Team, Azure Cards",25
+3991236,66,42,Paying,165,56,36,0,,16
+6630653,152,0,Churned,0,0,0,0,,99
+4919976,60,16,Churned,90,47,9,1,Zapier,61
+2080627,138,3,Paying,138,27,3,3,"MS Team, Azure Cards, Dropbox",21
+7336188,124,52,Paying,186,150,42,5,"Jira, Google, Slack, Zapier, Dropbox",3
+8123127,86,64,Churned,43,5,28,2,"Jira, Slack",16
+6753075,6,26,Paying,9,0,24,4,"Google, Jira, Slack, Dropbox",96
+2185709,112,27,Paying,112,55,15,1,Azure Cards,29
+4630290,39,23,Churned,58,5,14,3,"MS Team, Azure Cards, Dropbox",30
+1849766,130,10,Churned,130,26,10,4,"Slack, Zapier, MS Team, Azure Cards",72
+6049411,108,69,Churned,108,40,34,0,,3
+2720783,120,56,Churned,180,38,27,5,"Google, Slack, Zapier, Azure Cards, MS Team",24
+7945550,223,30,Churned,0,0,17,4,"Slack, Zapier, MS Team, Azure Cards",53
+1095061,203,59,Paying,101,3,49,1,Zapier,35
+3973607,53,15,Paying,79,71,12,2,"MS Team, Azure Cards",37
+6396109,67,46,Paying,33,18,33,3,"MS Team, Azure Cards, Dropbox",33
+6924502,60,41,Paying,120,11,32,1,Dropbox,80
+6344070,93,52,Churned,93,56,24,2,"MS Team, Azure Cards",12
+7162067,47,71,Churned,47,43,30,2,"MS Team, Azure Cards",71
+2501007,97,73,Churned,48,28,33,0,,64
+7886969,85,44,Paying,212,30,31,4,"Google, Jira, Slack, Dropbox",1
+6035578,106,1,Paying,212,4,1,2,"Jira, Zapier",33
+1045697,111,8,Churned,0,0,1,0,,8
+4034574,199,21,Churned,298,249,13,1,Dropbox,45
+6010177,31,54,Churned,31,20,31,0,,74
+5162903,58,64,Churned,29,6,26,4,"Google, Jira, Slack, Dropbox",20
+8281030,79,59,Paying,158,157,47,4,"Google, Jira, Slack, Dropbox",10
+1801182,21,26,Paying,42,11,20,0,,80
+7684930,94,6,Churned,94,21,6,5,"Google, Slack, Zapier, Azure Cards, MS Team",3
+4593241,70,25,Paying,35,11,20,0,,51
+1152517,84,39,Paying,84,67,28,0,,3
+7152983,178,43,Paying,445,146,33,2,"Jira, Slack",18
+8860712,173,74,Churned,0,0,37,2,"MS Team, Azure Cards",66
+4119500,159,25,Paying,159,87,21,2,"MS Team, Azure Cards",19
+7868792,25,17,Paying,25,9,9,3,"Jira, Slack, Zapier",52
+5532246,68,45,Paying,170,165,36,4,"Slack, Zapier, MS Team, Azure Cards",80
+5476859,12,2,Churned,12,4,0,4,"Google, Jira, Slack, Dropbox",38
+2338191,48,4,Churned,48,33,2,2,"MS Team, Azure Cards",79
+3483243,298,74,Churned,447,283,31,2,"MS Team, Azure Cards",95
+7006322,192,75,Churned,0,0,36,3,"MS Team, Azure Cards, Dropbox",27
+8833471,111,27,Paying,111,67,17,4,"Slack, Zapier, MS Team, Azure Cards",81
+7546216,44,3,Paying,22,7,3,2,"MS Team, Azure Cards",74
+5058477,35,54,Paying,35,20,42,5,"Jira, Google, Slack, Zapier, Dropbox",13
+5838300,240,51,Paying,120,30,39,3,"MS Team, Azure Cards, Dropbox",42
+6023065,74,26,Paying,111,30,18,1,Jira,65
+8778087,67,23,Paying,100,57,19,3,"Dropbox, Slack, Google",23
+6512267,56,26,Paying,56,38,19,4,"Google, Jira, Slack, Dropbox",6
+3349434,36,55,Churned,0,0,15,4,"Google, Jira, Slack, Dropbox",94
+3819055,30,52,Paying,45,26,43,3,"MS Team, Azure Cards, Dropbox",16
+5634376,175,19,Paying,437,327,16,3,"Jira, Slack, Zapier",50
+4148647,236,22,Paying,118,74,17,5,"Jira, Google, Slack, Zapier, Dropbox",1
+5487963,19,60,Churned,0,0,27,0,,27
+8511778,138,53,Churned,69,8,26,4,"Slack, Zapier, MS Team, Azure Cards",8
+4053812,274,4,Churned,411,297,1,4,"Google, Jira, Slack, Dropbox",74
+5072073,6,42,Paying,12,1,32,1,Jira,74
+2282941,242,69,Churned,0,0,29,5,"Jira, Google, Slack, Zapier, Dropbox",8
+7071268,54,55,Paying,27,10,41,4,"Slack, Zapier, MS Team, Azure Cards",8
+5383555,94,54,Churned,47,3,35,1,Azure Cards,3
+6277925,48,26,Paying,48,8,22,2,"Jira, Slack",92
+2657205,34,42,Paying,51,18,35,3,"MS Team, Azure Cards, Dropbox",53
+8845079,50,5,Paying,50,43,5,3,"Jira, Slack, Zapier",0
+8402528,277,0,Churned,415,160,0,4,"Google, Jira, Slack, Dropbox",0
+4240856,80,8,Paying,200,117,7,1,Slack,8
+2843179,64,4,Churned,96,4,0,5,"Google, Slack, Zapier, Azure Cards, MS Team",5
+7736628,341,5,Churned,511,20,1,5,"Google, Slack, Zapier, Azure Cards, MS Team",37
+5370773,65,12,Paying,32,0,12,0,,62
+2281644,135,42,Paying,202,92,33,1,Dropbox,28
+1861246,88,11,Paying,220,18,6,2,"MS Team, Azure Cards",22
+3627785,135,1,Churned,135,113,1,5,"Google, Slack, Zapier, Azure Cards, MS Team",28
+4778403,9,66,Churned,13,12,35,1,Azure Cards,5
+8774862,198,10,Churned,0,0,5,1,Slack,68
+1965622,56,75,Churned,0,0,25,3,"MS Team, Azure Cards, Dropbox",92
+8168155,153,39,Paying,153,99,30,4,"Google, Jira, Slack, Dropbox",28
+2720801,81,25,Paying,40,33,18,5,"Google, Slack, Zapier, Azure Cards, MS Team",22
+8119131,21,2,Churned,10,3,2,4,"Slack, Zapier, MS Team, Azure Cards",33
+6850477,32,8,Paying,32,27,6,4,"Google, Jira, Slack, Dropbox",94
+3141446,145,59,Churned,145,30,34,5,"Google, Slack, Zapier, Azure Cards, MS Team",23
+2262149,29,32,Paying,14,0,26,4,"Slack, Zapier, MS Team, Azure Cards",14
+1460328,25,56,Churned,0,0,29,3,"Jira, Slack, Zapier",10
+6269384,79,8,Paying,158,61,8,3,"Dropbox, Slack, Google",85
+8963932,24,64,Churned,24,20,35,5,"Google, Slack, Zapier, Azure Cards, MS Team",21
+1778411,54,60,Churned,54,9,30,4,"Slack, Zapier, MS Team, Azure Cards",22
+5534667,77,23,Churned,77,40,15,5,"Jira, Google, Slack, Zapier, Dropbox",31
+5289929,236,30,Paying,472,15,18,1,Azure Cards,92
+1299152,117,5,Churned,175,31,4,1,Jira,33
+7546814,38,72,Churned,38,4,42,2,"MS Team, Azure Cards",0
+8804868,175,51,Churned,87,24,36,2,"Jira, Slack",56
+2142743,349,63,Churned,174,22,31,4,"Slack, Zapier, MS Team, Azure Cards",9
+1447739,133,1,Paying,266,154,1,3,"Dropbox, Slack, Google",13
+7094686,61,65,Churned,30,19,26,1,Zapier,10
+5208533,111,42,Paying,277,103,35,4,"Slack, Zapier, MS Team, Azure Cards",29
+3619341,153,4,Paying,306,227,4,2,"Jira, Zapier",64
+5571968,121,1,Churned,60,22,1,1,Dropbox,14
+3640571,15,3,Churned,0,0,3,5,"Jira, Google, Slack, Zapier, Dropbox",12
+1709438,30,23,Paying,45,24,16,3,"MS Team, Azure Cards, Dropbox",72
+8613911,26,4,Churned,26,0,2,3,"Jira, Slack, Zapier",12
+8504919,4,20,Paying,6,5,19,5,"Jira, Google, Slack, Zapier, Dropbox",99
+1077622,194,7,Paying,97,81,4,2,"Jira, Zapier",63
+4692845,94,9,Churned,47,4,3,4,"Google, Jira, Slack, Dropbox",61
+1328831,164,72,Churned,246,36,38,0,,77
+3001332,159,73,Churned,0,0,39,2,"Jira, Zapier",82
+5581480,31,52,Churned,0,0,17,4,"Google, Jira, Slack, Dropbox",11
+1126521,163,34,Paying,163,71,29,0,,35
+5569521,49,8,Paying,24,22,4,3,"Dropbox, Slack, Google",28
+5434401,119,42,Paying,178,148,31,5,"Jira, Google, Slack, Zapier, Dropbox",9
+5271901,36,62,Churned,0,0,36,1,Dropbox,78
+7185204,26,42,Paying,26,5,36,3,"MS Team, Azure Cards, Dropbox",76
+3758547,38,35,Paying,95,89,30,1,Jira,4
+1797158,93,29,Paying,46,10,23,0,,62
+4991191,42,39,Paying,105,68,30,2,"Jira, Zapier",21
+8129136,38,0,Churned,0,0,0,2,"MS Team, Azure Cards",95
+6299694,4,47,Paying,8,4,32,0,,42
+2090190,40,34,Paying,100,66,28,4,"Slack, Zapier, MS Team, Azure Cards",39
+7669175,134,29,Paying,201,167,26,0,,4
+1842575,70,4,Churned,35,29,0,0,,50
+6714593,185,3,Churned,277,182,1,3,"Dropbox, Slack, Google",71
+6400638,143,16,Paying,143,133,11,3,"Jira, Slack, Zapier",85
+4966138,143,50,Paying,357,262,43,0,,82
+6733619,35,38,Paying,52,13,31,1,Jira,99
+3620609,290,45,Paying,145,100,35,2,"Jira, Zapier",87
+1152016,42,24,Paying,63,29,19,3,"MS Team, Azure Cards, Dropbox",67
+6128820,234,5,Paying,234,88,3,2,"Jira, Slack",19
+6561947,75,70,Churned,75,43,33,5,"Jira, Google, Slack, Zapier, Dropbox",100
+5840778,48,59,Paying,120,23,45,3,"MS Team, Azure Cards, Dropbox",57
+8199970,97,52,Churned,97,22,26,0,,58
+1244045,12,40,Paying,18,11,30,2,"Jira, Slack",55
+6122889,29,72,Churned,29,4,38,4,"Google, Jira, Slack, Dropbox",40
+1961590,238,3,Churned,0,0,3,5,"Google, Slack, Zapier, Azure Cards, MS Team",83
+6982685,35,3,Churned,35,1,3,5,"Jira, Google, Slack, Zapier, Dropbox",50
+8370083,19,3,Churned,0,0,3,2,"Jira, Zapier",8
+7791769,3,2,Churned,1,0,2,3,"Dropbox, Slack, Google",55
+2945651,117,38,Paying,58,56,30,2,"Jira, Zapier",77
+5388496,283,12,Churned,283,20,11,4,"Google, Jira, Slack, Dropbox",4
+5608721,52,33,Paying,78,12,25,1,MS Team,12
+6931497,226,6,Churned,226,193,0,0,,64
+4209838,125,10,Churned,187,167,4,2,"Jira, Slack",5
+8930447,13,19,Paying,26,10,14,1,Dropbox,32
+6951403,34,4,Churned,17,15,4,0,,57
+7782465,32,5,Paying,48,34,3,1,MS Team,85
+4774247,39,46,Paying,39,24,35,2,"MS Team, Azure Cards",5
+3366193,104,42,Paying,208,85,35,5,"Google, Slack, Zapier, Azure Cards, MS Team",17
+3640955,23,59,Paying,11,10,45,4,"Slack, Zapier, MS Team, Azure Cards",71
+4845869,14,66,Churned,7,6,34,2,"Jira, Slack",53
+1122835,30,40,Paying,45,29,31,2,"Jira, Slack",99
+8861631,68,54,Churned,102,53,34,2,"MS Team, Azure Cards",11
+8950666,63,30,Paying,63,25,23,5,"Google, Slack, Zapier, Azure Cards, MS Team",63
+7365529,117,47,Paying,117,84,34,5,"Google, Slack, Zapier, Azure Cards, MS Team",78
+7294877,95,60,Churned,95,91,26,1,Slack,87
+8926124,138,11,Paying,276,112,8,0,,38
+8444025,232,55,Churned,348,7,27,4,"Google, Jira, Slack, Dropbox",81
+4903738,224,66,Churned,0,0,32,0,,14
+6397719,49,0,Churned,24,18,0,0,,83
+6254838,85,5,Churned,0,0,1,2,"Jira, Slack",5
+4368672,104,68,Churned,104,18,34,4,"Google, Jira, Slack, Dropbox",7
+8223481,57,68,Churned,0,0,39,1,Slack,9
+8919229,7,16,Paying,17,16,14,0,,67
+3083635,11,56,Paying,11,10,40,2,"Jira, Zapier",29
+6283606,14,9,Paying,28,7,6,5,"Google, Slack, Zapier, Azure Cards, MS Team",12
+8538130,290,0,Churned,435,314,0,3,"MS Team, Azure Cards, Dropbox",66
+1145211,200,70,Churned,0,0,30,2,"MS Team, Azure Cards",26
+3948139,48,42,Paying,72,13,32,2,"Jira, Zapier",60
+8386876,68,26,Paying,68,40,21,3,"Jira, Slack, Zapier",98
+2085096,174,3,Churned,261,211,1,1,Google,11
+4227662,70,15,Paying,35,34,10,3,"Dropbox, Slack, Google",58
+8695855,226,52,Churned,226,113,24,0,,61
+2990908,86,27,Paying,215,163,23,5,"Jira, Google, Slack, Zapier, Dropbox",6
+4675184,91,3,Churned,45,32,2,2,"MS Team, Azure Cards",97
+2303707,119,23,Paying,297,215,20,3,"Jira, Slack, Zapier",22
+8995008,70,17,Paying,70,50,15,3,"Jira, Slack, Zapier",76
+3038359,269,18,Churned,269,100,11,0,,58
+2570565,27,40,Paying,27,22,34,0,,14
+4803602,283,7,Churned,424,222,2,1,Jira,90
+2731278,51,18,Paying,51,42,15,0,,30
+8607114,134,60,Paying,201,76,49,3,"MS Team, Azure Cards, Dropbox",96
+5195060,33,55,Churned,49,29,25,3,"MS Team, Azure Cards, Dropbox",20
+8664765,199,24,Churned,298,232,15,3,"MS Team, Azure Cards, Dropbox",33
+4990710,317,25,Churned,0,0,15,1,Azure Cards,44
+4101206,100,31,Paying,150,34,23,2,"Jira, Zapier",12
+2504527,56,64,Churned,0,0,26,3,"Dropbox, Slack, Google",74
+8964178,227,4,Churned,227,49,4,5,"Jira, Google, Slack, Zapier, Dropbox",15
+7384543,25,38,Paying,12,9,31,0,,33
+2673264,13,39,Paying,32,12,29,5,"Google, Slack, Zapier, Azure Cards, MS Team",51
+4891364,159,53,Paying,397,263,42,1,Azure Cards,0
+4029244,2,54,Churned,0,0,25,2,"Jira, Zapier",84
+2814494,51,4,Churned,0,0,3,0,,98
+2365044,256,9,Churned,0,0,1,5,"Jira, Google, Slack, Zapier, Dropbox",72
+3742996,8,39,Paying,12,1,31,0,,43
+5016544,50,56,Churned,25,19,29,2,"Jira, Slack",96
+7798518,40,68,Churned,20,10,50,0,,97
+7821356,15,15,Churned,15,2,8,4,"Slack, Zapier, MS Team, Azure Cards",26
+7512356,82,36,Paying,164,27,28,1,Slack,9
+2449614,110,22,Paying,55,19,18,4,"Google, Jira, Slack, Dropbox",76
+7702834,301,64,Churned,451,18,43,0,,74
+3783244,31,18,Paying,15,10,15,5,"Jira, Google, Slack, Zapier, Dropbox",79
+6878628,71,18,Paying,142,125,13,1,Zapier,60
+1822594,128,23,Paying,128,110,17,2,"Jira, Zapier",35
+2616554,178,25,Churned,267,58,10,1,Zapier,12
+6155162,125,7,Churned,187,16,3,5,"Google, Slack, Zapier, Azure Cards, MS Team",93
+8156915,31,50,Churned,0,0,19,2,"MS Team, Azure Cards",12
+3818702,140,40,Paying,210,7,31,4,"Slack, Zapier, MS Team, Azure Cards",80
+6983518,51,5,Paying,127,15,4,0,,84
+7216509,68,4,Churned,102,46,1,3,"MS Team, Azure Cards, Dropbox",96
+8965522,50,54,Paying,50,26,44,5,"Jira, Google, Slack, Zapier, Dropbox",3
+3426212,245,72,Churned,245,210,41,5,"Google, Slack, Zapier, Azure Cards, MS Team",50
+6572053,92,63,Churned,138,101,32,5,"Google, Slack, Zapier, Azure Cards, MS Team",97
+5665078,135,1,Churned,202,129,0,2,"Jira, Zapier",25
+6822766,91,54,Churned,0,0,23,5,"Google, Slack, Zapier, Azure Cards, MS Team",63
+7357375,265,21,Churned,0,0,12,2,"MS Team, Azure Cards",13
+6684087,117,53,Paying,234,97,44,1,Jira,83
+6214559,179,53,Churned,89,66,23,4,"Google, Jira, Slack, Dropbox",66
+7392197,71,30,Paying,106,53,23,3,"Dropbox, Slack, Google",21
+6927847,68,21,Paying,136,50,19,1,Zapier,53
+7682876,150,2,Churned,150,104,0,4,"Slack, Zapier, MS Team, Azure Cards",19
+5696615,195,8,Paying,292,103,7,4,"Google, Jira, Slack, Dropbox",66
+7493255,73,61,Churned,109,30,25,1,Zapier,21
+8307593,72,32,Paying,144,68,23,4,"Google, Jira, Slack, Dropbox",27
+4362873,38,54,Paying,57,37,42,5,"Google, Slack, Zapier, Azure Cards, MS Team",5
+5977955,112,56,Paying,112,43,42,0,,55
+4693481,43,9,Paying,43,11,8,5,"Jira, Google, Slack, Zapier, Dropbox",83
+7461440,120,20,Paying,120,57,19,3,"Dropbox, Slack, Google",0
+6744662,233,60,Churned,0,0,21,1,Azure Cards,67
+4847721,23,15,Churned,0,0,3,1,Google,34
+1587069,80,43,Paying,200,121,39,0,,19
+6455512,265,60,Churned,265,111,26,2,"MS Team, Azure Cards",72
+8409234,139,48,Paying,347,301,35,2,"Jira, Slack",62
+7900275,224,70,Churned,224,75,33,1,Azure Cards,99
+1651039,232,64,Churned,0,0,28,0,,69
+6629821,49,6,Paying,49,47,4,3,"Jira, Slack, Zapier",30
+4455637,200,14,Churned,200,100,9,0,,51
+5132233,92,51,Churned,138,84,21,4,"Google, Jira, Slack, Dropbox",11
+4380215,138,2,Paying,69,13,2,3,"Dropbox, Slack, Google",70
+5449244,68,38,Paying,136,128,31,1,Dropbox,95
+5274340,236,22,Churned,236,145,12,2,"MS Team, Azure Cards",78
+1915528,271,4,Churned,406,101,0,4,"Slack, Zapier, MS Team, Azure Cards",92
+5314810,41,13,Paying,82,55,10,1,Slack,77
+7548404,173,75,Churned,259,93,36,0,,28
+7355714,20,2,Churned,20,15,2,3,"MS Team, Azure Cards, Dropbox",67
+4187568,108,23,Paying,54,33,19,0,,76
+4775953,38,7,Churned,57,28,4,0,,83
+7975505,22,9,Paying,33,25,8,2,"MS Team, Azure Cards",57
+4790735,104,46,Paying,260,34,35,5,"Google, Slack, Zapier, Azure Cards, MS Team",84
+7393486,235,58,Churned,235,110,32,5,"Google, Slack, Zapier, Azure Cards, MS Team",21
+8653422,4,1,Churned,4,3,1,1,Zapier,77
+2180094,5,33,Paying,2,1,25,0,,27
+1958946,105,39,Paying,105,28,33,1,Azure Cards,40
+5939670,45,73,Churned,45,14,37,1,Google,85
+8297363,6,37,Paying,6,5,30,1,Zapier,88
+4063081,160,8,Churned,160,12,8,4,"Google, Jira, Slack, Dropbox",83
+3957565,55,42,Paying,82,2,34,4,"Google, Jira, Slack, Dropbox",100
+8799329,172,32,Churned,0,0,17,1,Zapier,95
+7978629,15,67,Churned,22,5,29,0,,20
+3794286,78,65,Churned,0,0,33,5,"Google, Slack, Zapier, Azure Cards, MS Team",56
+5270392,6,40,Paying,12,8,34,4,"Slack, Zapier, MS Team, Azure Cards",2
+8451587,131,55,Paying,262,82,44,5,"Jira, Google, Slack, Zapier, Dropbox",11
+8824920,11,28,Paying,11,0,20,5,"Jira, Google, Slack, Zapier, Dropbox",58
+2125456,21,7,Paying,31,23,6,2,"Jira, Slack",90
+5265248,176,52,Churned,264,156,36,5,"Jira, Google, Slack, Zapier, Dropbox",48
+1365494,20,10,Paying,20,8,5,5,"Google, Slack, Zapier, Azure Cards, MS Team",46
+6903406,206,70,Churned,0,0,30,1,Slack,52
+1137483,110,29,Paying,55,1,22,1,Dropbox,8
+1722424,86,74,Churned,129,77,33,1,Zapier,28
+1616558,89,50,Churned,0,0,23,4,"Slack, Zapier, MS Team, Azure Cards",35
+1701049,36,15,Paying,36,32,10,1,Dropbox,38
+4989131,191,58,Churned,0,0,30,0,,29
+1089812,12,60,Churned,12,1,39,5,"Jira, Google, Slack, Zapier, Dropbox",75
+3440086,91,17,Churned,0,0,12,2,"MS Team, Azure Cards",25
+6643217,29,60,Paying,14,8,51,0,,59
+4891050,276,58,Churned,138,31,23,5,"Jira, Google, Slack, Zapier, Dropbox",55
+1250221,68,54,Churned,34,31,20,3,"Jira, Slack, Zapier",6
+8613005,9,62,Churned,9,0,26,2,"Jira, Zapier",49
+5184118,240,70,Churned,0,0,25,4,"Slack, Zapier, MS Team, Azure Cards",23
+6914465,65,58,Paying,32,23,45,0,,86
+7547227,193,21,Churned,96,2,13,2,"Jira, Zapier",12
+2217027,40,4,Paying,60,54,2,0,,57
+3961408,102,45,Paying,255,27,37,2,"MS Team, Azure Cards",91
+5692320,168,54,Churned,0,0,22,1,Slack,83
+5503941,28,72,Churned,14,5,36,0,,37
+5060254,96,57,Churned,144,120,22,4,"Google, Jira, Slack, Dropbox",85
+5743720,58,10,Churned,87,72,8,0,,16
+7904743,21,19,Paying,52,29,14,5,"Jira, Google, Slack, Zapier, Dropbox",9
+5290790,209,20,Churned,104,23,14,4,"Slack, Zapier, MS Team, Azure Cards",29
+7618107,15,52,Churned,22,15,23,4,"Slack, Zapier, MS Team, Azure Cards",76
+3958177,153,9,Churned,153,30,6,4,"Google, Jira, Slack, Dropbox",21
+4141504,207,12,Churned,310,201,0,5,"Google, Slack, Zapier, Azure Cards, MS Team",84
+6727692,98,7,Paying,147,109,5,2,"MS Team, Azure Cards",77
+5923757,200,67,Churned,100,98,32,5,"Jira, Google, Slack, Zapier, Dropbox",56
+3786338,395,71,Churned,0,0,33,0,,73
+4481262,19,38,Paying,47,26,30,1,Dropbox,33
+3870620,39,24,Paying,39,35,22,4,"Slack, Zapier, MS Team, Azure Cards",18
+7789076,44,69,Churned,66,29,34,4,"Google, Jira, Slack, Dropbox",97
+1952410,70,2,Churned,70,16,2,4,"Google, Jira, Slack, Dropbox",98
+8711468,46,56,Paying,69,34,42,0,,81
+2126679,140,59,Churned,0,0,30,5,"Google, Slack, Zapier, Azure Cards, MS Team",25
+5276303,90,2,Churned,135,81,0,2,"MS Team, Azure Cards",35
+7253636,257,6,Paying,257,33,3,4,"Slack, Zapier, MS Team, Azure Cards",71
+4468754,195,22,Paying,97,88,19,2,"Jira, Zapier",34
+1215696,90,6,Churned,90,5,5,3,"MS Team, Azure Cards, Dropbox",12
+8773416,21,33,Paying,42,26,26,3,"MS Team, Azure Cards, Dropbox",63
+7290784,221,38,Paying,331,52,28,4,"Google, Jira, Slack, Dropbox",65
+8274370,76,60,Paying,38,14,50,5,"Jira, Google, Slack, Zapier, Dropbox",20
+5381779,60,2,Churned,60,46,2,2,"Jira, Zapier",82
+8261275,16,16,Paying,40,3,15,3,"MS Team, Azure Cards, Dropbox",76
+4752729,109,36,Paying,163,142,31,1,Slack,64
+1209223,17,51,Churned,17,0,30,5,"Jira, Google, Slack, Zapier, Dropbox",39
+5225009,137,56,Churned,0,0,26,5,"Google, Slack, Zapier, Azure Cards, MS Team",28
+5264481,46,7,Paying,115,105,6,3,"MS Team, Azure Cards, Dropbox",83
+8487121,22,25,Paying,44,21,19,0,,41
+5589852,99,42,Paying,148,13,37,3,"Dropbox, Slack, Google",40
+6377750,48,60,Paying,120,101,46,3,"Jira, Slack, Zapier",5
+3213307,81,27,Paying,202,93,22,4,"Google, Jira, Slack, Dropbox",90
+8507285,91,39,Paying,182,9,30,1,Google,69
+3750494,65,9,Paying,162,55,5,5,"Jira, Google, Slack, Zapier, Dropbox",39
+5567425,151,49,Paying,226,89,37,0,,63
+3011883,104,19,Paying,156,49,12,3,"Dropbox, Slack, Google",63
+6854962,139,20,Paying,139,24,16,0,,37
+2910861,225,8,Churned,112,88,5,4,"Google, Jira, Slack, Dropbox",62
+3424570,17,54,Churned,0,0,27,3,"MS Team, Azure Cards, Dropbox",22
+4005142,144,60,Churned,72,31,36,0,,74
+8849778,278,43,Paying,139,107,36,3,"Dropbox, Slack, Google",18
+4881712,123,21,Paying,307,132,17,4,"Google, Jira, Slack, Dropbox",93
+3727229,270,18,Paying,270,216,16,1,MS Team,61
+3202024,224,44,Paying,560,107,38,0,,87
+6675246,2,57,Paying,5,3,48,1,Zapier,9
+3229183,26,16,Churned,0,0,16,3,"MS Team, Azure Cards, Dropbox",8
+1132687,109,56,Paying,109,101,46,2,"Jira, Zapier",33
+4860844,201,1,Churned,0,0,1,1,Google,80
+3679743,65,19,Paying,32,0,15,3,"MS Team, Azure Cards, Dropbox",37
+5872337,139,45,Paying,69,1,38,4,"Slack, Zapier, MS Team, Azure Cards",22
+7994708,39,34,Paying,39,34,25,3,"Dropbox, Slack, Google",28
+6957409,230,41,Paying,115,86,30,2,"Jira, Zapier",14
+1526772,159,1,Churned,0,0,1,5,"Google, Slack, Zapier, Azure Cards, MS Team",50
+6059936,78,59,Churned,39,5,30,2,"Jira, Slack",43
+3153092,151,57,Churned,226,50,24,4,"Slack, Zapier, MS Team, Azure Cards",51
+4229308,43,58,Paying,107,61,47,5,"Jira, Google, Slack, Zapier, Dropbox",71
+1458980,63,10,Paying,157,151,9,4,"Slack, Zapier, MS Team, Azure Cards",40
+4885553,368,71,Churned,184,171,36,5,"Google, Slack, Zapier, Azure Cards, MS Team",72
+3067731,79,27,Paying,118,103,22,0,,82
+8341144,111,36,Paying,55,17,28,1,Google,92
+6542436,75,14,Paying,37,12,10,2,"Jira, Slack",54
+2836689,104,1,Paying,156,71,1,5,"Jira, Google, Slack, Zapier, Dropbox",33
+1401329,352,16,Churned,176,152,0,2,"MS Team, Azure Cards",93
+6443201,35,5,Paying,35,5,0,0,,61
+7412047,324,11,Churned,0,0,5,3,"MS Team, Azure Cards, Dropbox",37
+5708960,47,7,Paying,23,4,6,5,"Google, Slack, Zapier, Azure Cards, MS Team",82
+1387021,72,55,Paying,180,31,43,3,"MS Team, Azure Cards, Dropbox",62
+5039521,90,14,Churned,45,19,5,5,"Jira, Google, Slack, Zapier, Dropbox",52
+6199302,234,9,Churned,0,0,4,1,Jira,10
+2505480,12,68,Churned,18,13,31,4,"Google, Jira, Slack, Dropbox",20
+6578435,10,58,Paying,15,0,47,0,,64
+8562271,35,48,Paying,17,8,39,2,"Jira, Zapier",12
+8811305,204,47,Paying,204,172,37,1,Zapier,84
+7244476,6,38,Paying,6,5,28,3,"MS Team, Azure Cards, Dropbox",32
+1286370,122,23,Paying,244,217,16,1,Slack,97
+5779040,68,18,Paying,102,31,18,2,"Jira, Zapier",44
+8085807,119,3,Churned,119,99,0,2,"Jira, Slack",48
+2053893,115,35,Paying,115,32,29,4,"Slack, Zapier, MS Team, Azure Cards",61
+4739854,39,1,Churned,0,0,0,3,"MS Team, Azure Cards, Dropbox",24
+8675543,91,9,Churned,91,52,9,2,"Jira, Zapier",58
+4432749,48,17,Paying,48,7,13,1,Dropbox,94
+3634270,28,2,Churned,0,0,0,1,Dropbox,89
+4889628,22,12,Churned,33,8,1,0,,56
+6158555,39,40,Paying,78,58,31,3,"MS Team, Azure Cards, Dropbox",24
+1095107,36,9,Churned,0,0,5,4,"Google, Jira, Slack, Dropbox",40
+8197302,138,59,Churned,69,60,22,5,"Google, Slack, Zapier, Azure Cards, MS Team",3
+8005734,8,32,Paying,8,5,23,4,"Slack, Zapier, MS Team, Azure Cards",40
+6942855,253,3,Churned,0,0,3,5,"Google, Slack, Zapier, Azure Cards, MS Team",67
+7911601,169,7,Churned,0,0,4,0,,65
+8214192,124,71,Churned,0,0,28,2,"Jira, Zapier",7
+3572366,47,17,Paying,47,4,17,5,"Google, Slack, Zapier, Azure Cards, MS Team",53
+7626401,21,2,Churned,10,6,2,0,,32
+5179094,33,62,Churned,49,16,29,4,"Slack, Zapier, MS Team, Azure Cards",81
+1988973,10,20,Churned,5,0,12,0,,90
+6530630,48,73,Churned,72,44,33,1,MS Team,57
+3884424,114,25,Paying,228,191,19,0,,83
+8400883,5,66,Churned,5,2,28,4,"Slack, Zapier, MS Team, Azure Cards",63
+2297993,37,56,Churned,18,11,26,2,"Jira, Zapier",63
+4976407,20,1,Churned,0,0,1,4,"Slack, Zapier, MS Team, Azure Cards",7
+1289615,77,17,Paying,77,70,14,2,"Jira, Zapier",95
+8293839,62,74,Churned,0,0,27,3,"Jira, Slack, Zapier",86
+2886320,104,10,Churned,52,1,3,3,"Jira, Slack, Zapier",46
+6064727,243,2,Paying,486,306,2,0,,76
+4814160,39,51,Paying,39,14,38,4,"Slack, Zapier, MS Team, Azure Cards",78
+6439299,86,72,Churned,0,0,29,5,"Jira, Google, Slack, Zapier, Dropbox",41
+7692658,133,15,Paying,332,103,13,1,Slack,21
+7728463,179,60,Paying,358,31,44,0,,11
+3768805,181,1,Churned,0,0,1,1,MS Team,55
+8315902,250,9,Churned,0,0,2,0,,78
+1020618,18,66,Churned,0,0,32,0,,74
+7824260,39,6,Churned,0,0,1,4,"Google, Jira, Slack, Dropbox",57
+6616791,95,64,Churned,95,13,30,0,,24
+7584180,214,59,Churned,214,46,25,3,"Jira, Slack, Zapier",92
+4871442,88,50,Paying,176,45,40,2,"Jira, Zapier",83
+6928853,35,2,Paying,52,11,1,3,"Jira, Slack, Zapier",18
+6665227,46,16,Paying,69,68,10,4,"Slack, Zapier, MS Team, Azure Cards",21
+8000512,101,9,Churned,50,7,6,4,"Google, Jira, Slack, Dropbox",6
+3113466,122,51,Paying,122,14,40,0,,21
+2285589,54,57,Churned,0,0,30,0,,37
+3481558,78,39,Paying,78,4,29,4,"Google, Jira, Slack, Dropbox",46
+1676121,10,56,Churned,10,1,29,2,"MS Team, Azure Cards",29
+6332256,45,14,Paying,22,16,14,4,"Slack, Zapier, MS Team, Azure Cards",28
+3284855,126,33,Paying,315,24,27,2,"Jira, Slack",84
+1138612,161,75,Churned,241,51,31,0,,72
+4079606,84,45,Paying,42,38,33,5,"Jira, Google, Slack, Zapier, Dropbox",96
+2873486,137,49,Paying,68,4,40,5,"Jira, Google, Slack, Zapier, Dropbox",17
+4841985,265,1,Churned,265,85,1,3,"MS Team, Azure Cards, Dropbox",70
+4878547,31,67,Churned,46,22,26,1,Slack,74
+4942301,159,37,Paying,238,88,31,4,"Slack, Zapier, MS Team, Azure Cards",23
+1524142,123,2,Churned,0,0,1,1,Zapier,48
+6082591,82,5,Paying,82,60,2,3,"Jira, Slack, Zapier",10
+3100804,158,54,Churned,0,0,33,5,"Jira, Google, Slack, Zapier, Dropbox",14
+2774422,125,60,Paying,187,14,49,2,"Jira, Slack",67
+7214016,155,19,Churned,77,60,13,3,"MS Team, Azure Cards, Dropbox",19
+2043364,188,0,Churned,188,33,0,3,"Dropbox, Slack, Google",65
+6451344,185,21,Paying,462,29,17,2,"Jira, Slack",25
+1056159,31,70,Churned,31,19,35,1,Google,17
+7651353,161,56,Paying,402,166,45,3,"MS Team, Azure Cards, Dropbox",91
+6441069,91,46,Paying,227,89,33,1,Dropbox,73
+2008900,314,72,Churned,157,9,26,2,"Jira, Zapier",75
+4279638,36,68,Churned,0,0,33,1,Dropbox,63
+8851460,161,58,Churned,161,10,35,2,"Jira, Zapier",48
+6949020,142,16,Churned,213,16,9,2,"MS Team, Azure Cards",83
+8268673,51,67,Churned,25,5,29,0,,47
+5026195,91,54,Paying,136,130,43,2,"Jira, Zapier",3
+2899968,186,18,Churned,93,7,1,0,,78
+7293488,120,72,Churned,60,49,37,4,"Google, Jira, Slack, Dropbox",67
+8005337,377,65,Churned,377,172,34,3,"Jira, Slack, Zapier",24
+8220120,15,1,Paying,30,16,1,0,,33
+7132428,105,2,Paying,157,143,2,1,Slack,41
+8861645,27,74,Churned,27,6,35,3,"MS Team, Azure Cards, Dropbox",41
+1145107,167,7,Churned,250,82,1,0,,94
+5763171,144,12,Churned,72,39,1,4,"Google, Jira, Slack, Dropbox",30
+1264544,95,58,Churned,0,0,34,5,"Google, Slack, Zapier, Azure Cards, MS Team",33
+3094809,127,51,Churned,63,60,23,1,Azure Cards,60
+1560049,26,2,Paying,65,7,0,2,"MS Team, Azure Cards",38
+4930065,266,56,Churned,399,215,26,0,,78
+1702749,72,65,Churned,72,51,32,4,"Google, Jira, Slack, Dropbox",88
+8105583,35,6,Churned,52,26,6,3,"Dropbox, Slack, Google",78
+8768230,297,12,Churned,148,1,6,2,"MS Team, Azure Cards",15
+8489039,207,52,Paying,207,103,41,4,"Slack, Zapier, MS Team, Azure Cards",91
+7545605,60,12,Paying,120,32,7,1,Jira,43
+1500958,137,52,Churned,68,47,35,2,"MS Team, Azure Cards",87
+6711183,152,50,Churned,76,69,27,5,"Google, Slack, Zapier, Azure Cards, MS Team",66
+7566707,36,23,Paying,90,58,17,1,Dropbox,91
+3619644,56,11,Churned,0,0,5,4,"Slack, Zapier, MS Team, Azure Cards",31
+5026554,62,23,Paying,31,3,20,2,"Jira, Slack",96
+2246335,18,38,Paying,18,7,30,4,"Google, Jira, Slack, Dropbox",44
+8734542,218,50,Churned,0,0,16,1,Azure Cards,20
+7106535,167,63,Churned,167,86,28,3,"Dropbox, Slack, Google",60
+4987344,328,3,Churned,328,202,3,4,"Slack, Zapier, MS Team, Azure Cards",42
+6472016,98,52,Paying,245,240,42,3,"MS Team, Azure Cards, Dropbox",99
+8438062,8,26,Paying,20,18,22,3,"Dropbox, Slack, Google",91
+7529166,90,49,Paying,90,49,37,2,"Jira, Slack",73
+6764791,127,7,Churned,127,22,7,3,"MS Team, Azure Cards, Dropbox",34
+4620490,17,60,Churned,0,0,30,2,"MS Team, Azure Cards",4
+8997315,230,34,Paying,115,45,27,3,"Jira, Slack, Zapier",1
+5739132,34,22,Paying,51,41,20,0,,24
+2284818,14,30,Churned,7,5,5,5,"Google, Slack, Zapier, Azure Cards, MS Team",94
+3956263,122,59,Churned,0,0,29,3,"Dropbox, Slack, Google",78
+1877127,42,51,Paying,21,16,45,3,"Jira, Slack, Zapier",8
+7680216,25,3,Churned,12,10,3,0,,42
+6447212,259,64,Churned,388,302,42,0,,83
+5565285,165,31,Paying,330,78,23,2,"Jira, Slack",20
+6269703,74,73,Churned,0,0,38,3,"Dropbox, Slack, Google",52
+3294889,9,44,Paying,18,2,36,0,,30
+8244705,247,41,Paying,247,9,32,0,,82
+4593013,2,55,Churned,1,0,26,0,,37
+5998822,25,5,Churned,12,4,5,1,Google,15
+1607725,56,37,Paying,84,75,31,4,"Slack, Zapier, MS Team, Azure Cards",38
+1458518,215,14,Churned,107,57,10,2,"Jira, Zapier",51
+4291469,21,56,Paying,52,51,45,1,Azure Cards,38
+5996795,7,26,Paying,17,13,19,2,"MS Team, Azure Cards",31
+6706483,95,32,Paying,47,8,24,0,,99
+2682366,1,55,Churned,1,0,23,0,,37
+8154911,59,28,Paying,59,30,22,3,"MS Team, Azure Cards, Dropbox",41
+7744028,183,14,Paying,366,36,12,5,"Google, Slack, Zapier, Azure Cards, MS Team",21
+2624165,91,9,Churned,136,81,4,0,,35
+6250084,11,33,Churned,0,0,19,5,"Jira, Google, Slack, Zapier, Dropbox",12
+2773513,134,29,Paying,268,243,23,4,"Slack, Zapier, MS Team, Azure Cards",63
+7192339,115,74,Churned,172,4,40,0,,27
+8390282,2,56,Churned,1,0,30,4,"Google, Jira, Slack, Dropbox",84
+8417609,52,7,Paying,130,84,7,1,Dropbox,37
+3630722,18,27,Paying,45,8,19,1,Dropbox,36
+4323757,15,22,Churned,22,16,9,1,MS Team,23
+4429276,144,5,Churned,72,70,5,3,"MS Team, Azure Cards, Dropbox",14
+2933375,80,63,Churned,0,0,35,0,,39
+8929045,274,50,Paying,548,462,37,1,Slack,0
+8103387,44,54,Churned,66,42,24,0,,66
+8872978,137,63,Churned,137,108,32,1,Slack,51
+2290107,149,54,Paying,298,149,44,4,"Slack, Zapier, MS Team, Azure Cards",53
+7949337,20,25,Paying,10,8,21,2,"MS Team, Azure Cards",14
+3744542,149,51,Churned,223,127,29,0,,48
+8603098,36,69,Churned,0,0,30,4,"Slack, Zapier, MS Team, Azure Cards",39
+3749058,48,47,Paying,120,79,39,4,"Google, Jira, Slack, Dropbox",97
+5385497,27,9,Churned,40,27,0,1,Zapier,85
+2939742,27,61,Churned,40,36,37,2,"MS Team, Azure Cards",25
+4585014,138,55,Paying,69,41,42,4,"Google, Jira, Slack, Dropbox",25
+4285525,7,22,Paying,10,3,17,0,,10
+2481777,10,52,Churned,0,0,27,2,"MS Team, Azure Cards",25
+4245282,55,67,Churned,27,9,24,5,"Google, Slack, Zapier, Azure Cards, MS Team",5
+8965115,32,21,Paying,32,16,13,0,,86
+1535118,128,3,Paying,128,107,3,1,Google,10
+6789412,49,50,Paying,24,0,37,4,"Google, Jira, Slack, Dropbox",92
+1710925,33,73,Churned,0,0,33,4,"Google, Jira, Slack, Dropbox",64
+7699844,95,59,Churned,95,86,32,3,"Jira, Slack, Zapier",12
+1868465,75,65,Churned,112,83,39,3,"MS Team, Azure Cards, Dropbox",91
+6091154,11,52,Paying,11,10,40,4,"Slack, Zapier, MS Team, Azure Cards",93
+6406413,170,47,Paying,340,303,39,4,"Google, Jira, Slack, Dropbox",84
+2950537,3,37,Paying,6,5,28,2,"Jira, Zapier",88
+2149359,147,9,Paying,367,225,9,4,"Google, Jira, Slack, Dropbox",85
+4199854,74,40,Paying,37,36,32,3,"Dropbox, Slack, Google",97
+5536898,21,42,Paying,42,4,35,2,"MS Team, Azure Cards",21
+3386092,112,5,Churned,0,0,2,5,"Google, Slack, Zapier, Azure Cards, MS Team",67
+8090707,28,44,Paying,28,10,35,4,"Slack, Zapier, MS Team, Azure Cards",5
+8134164,32,3,Paying,48,17,1,2,"Jira, Slack",54
+1573684,160,42,Paying,240,64,30,5,"Google, Slack, Zapier, Azure Cards, MS Team",93
+3884019,122,67,Churned,183,165,41,1,Slack,77
+5436993,144,26,Paying,360,195,17,1,Dropbox,10
+6395102,194,62,Churned,97,16,33,1,Jira,25
+3733600,34,57,Paying,68,55,45,1,Zapier,92
+1184916,236,51,Churned,118,84,32,5,"Jira, Google, Slack, Zapier, Dropbox",52
+5646417,9,41,Paying,9,1,32,2,"Jira, Slack",100
+4101003,40,70,Churned,40,20,32,1,Dropbox,70
+6328817,18,54,Paying,45,33,42,2,"Jira, Slack",98
+2220045,76,70,Churned,38,36,43,4,"Slack, Zapier, MS Team, Azure Cards",82
+5707920,42,48,Paying,63,55,41,1,MS Team,77
+7199521,172,39,Paying,86,45,30,2,"Jira, Zapier",96
+5271879,21,26,Paying,42,9,15,0,,58
+3859462,43,4,Churned,0,0,4,5,"Jira, Google, Slack, Zapier, Dropbox",98
+3605750,28,36,Paying,14,0,27,0,,45
+7531493,147,18,Paying,367,71,15,0,,25
+1238564,80,59,Churned,40,17,32,0,,96
+4757601,64,9,Paying,64,31,5,4,"Slack, Zapier, MS Team, Azure Cards",86
+5432224,114,22,Paying,114,96,17,0,,89
+6841271,243,16,Churned,364,12,16,1,Slack,59
+4800844,74,49,Paying,111,100,40,3,"MS Team, Azure Cards, Dropbox",9
+8061757,74,40,Paying,37,12,32,5,"Jira, Google, Slack, Zapier, Dropbox",58
+1001950,52,12,Paying,52,28,8,1,Azure Cards,47
+5518420,89,30,Paying,89,82,25,2,"Jira, Zapier",27
+7751079,37,27,Churned,0,0,12,1,Zapier,54
+7394545,336,16,Churned,504,125,5,5,"Google, Slack, Zapier, Azure Cards, MS Team",40
+6359660,128,54,Churned,64,55,22,2,"Jira, Slack",37
+7725177,57,27,Paying,142,105,22,4,"Slack, Zapier, MS Team, Azure Cards",70
+1064693,12,50,Churned,18,9,33,1,Slack,2
+1530797,177,58,Paying,177,96,46,0,,53
+8932605,47,10,Churned,23,14,5,5,"Google, Slack, Zapier, Azure Cards, MS Team",53
+5145830,147,8,Paying,294,250,3,4,"Google, Jira, Slack, Dropbox",14
+1824015,155,18,Churned,155,118,6,3,"Dropbox, Slack, Google",94
+1213797,50,7,Churned,75,63,3,2,"Jira, Slack",60
+5903871,46,46,Paying,69,23,33,4,"Slack, Zapier, MS Team, Azure Cards",70
+4162747,149,60,Churned,0,0,28,5,"Jira, Google, Slack, Zapier, Dropbox",87
+8249239,169,53,Churned,169,136,34,1,Google,64
+5076590,61,26,Paying,30,2,18,1,Google,88
+3035738,25,54,Churned,12,6,26,2,"Jira, Zapier",1
+4150612,74,55,Churned,0,0,19,0,,22
+6739510,87,17,Churned,0,0,2,0,,24
+1420068,40,58,Paying,20,3,46,2,"Jira, Zapier",21
+1639190,135,9,Paying,202,134,9,5,"Google, Slack, Zapier, Azure Cards, MS Team",42
+3714417,126,12,Paying,189,61,7,3,"MS Team, Azure Cards, Dropbox",53
+2989993,88,74,Churned,132,102,33,4,"Slack, Zapier, MS Team, Azure Cards",64
+7760926,72,9,Churned,0,0,9,1,Jira,4
+8379648,8,35,Paying,12,11,27,0,,21
+8251355,79,50,Paying,79,61,39,3,"Jira, Slack, Zapier",40
+6733831,68,7,Churned,34,26,4,5,"Jira, Google, Slack, Zapier, Dropbox",52
+3425564,43,51,Paying,21,0,40,3,"Jira, Slack, Zapier",90
+3447337,21,73,Churned,31,14,31,3,"Jira, Slack, Zapier",22
+5820547,90,33,Paying,90,5,26,5,"Jira, Google, Slack, Zapier, Dropbox",55
+1058120,59,24,Paying,59,20,18,0,,1
+1845966,42,0,Churned,42,34,0,1,Azure Cards,36
+4217896,18,16,Churned,27,19,15,4,"Google, Jira, Slack, Dropbox",78
+1883006,44,33,Paying,88,1,29,5,"Jira, Google, Slack, Zapier, Dropbox",91
+7122481,101,21,Paying,50,14,17,1,Dropbox,80
+4503595,141,43,Paying,141,58,36,0,,14
+7137990,64,23,Paying,96,46,20,5,"Jira, Google, Slack, Zapier, Dropbox",93
+5477917,34,12,Paying,68,42,12,0,,15
+8229784,28,50,Churned,42,23,23,0,,99
+4413376,83,49,Paying,41,3,38,4,"Google, Jira, Slack, Dropbox",28
+8942477,46,24,Churned,23,14,4,1,Azure Cards,64
+1799926,80,5,Paying,40,27,3,2,"Jira, Slack",0
+4445971,136,55,Churned,136,124,30,5,"Jira, Google, Slack, Zapier, Dropbox",65
+1831251,229,13,Churned,0,0,6,4,"Google, Jira, Slack, Dropbox",35
+8041536,36,42,Paying,90,48,33,5,"Jira, Google, Slack, Zapier, Dropbox",92
+7079950,44,51,Churned,66,2,18,4,"Slack, Zapier, MS Team, Azure Cards",65
+2864846,68,1,Paying,102,98,0,3,"MS Team, Azure Cards, Dropbox",9
+7872941,115,9,Paying,230,82,5,1,Google,32
+1848217,28,16,Churned,0,0,10,3,"Dropbox, Slack, Google",37
+1830118,131,15,Churned,0,0,8,5,"Jira, Google, Slack, Zapier, Dropbox",77
+6051806,10,3,Churned,0,0,3,2,"MS Team, Azure Cards",56
+5282910,116,30,Churned,174,159,22,2,"Jira, Zapier",5
+1541345,111,16,Churned,111,75,16,2,"MS Team, Azure Cards",18
+3191994,48,20,Paying,120,48,17,3,"Dropbox, Slack, Google",60
+3471232,17,0,Churned,17,2,0,0,,9
+4311415,114,27,Churned,0,0,12,2,"Jira, Zapier",49
+7269708,82,27,Paying,82,44,21,1,MS Team,59
+8058034,6,37,Paying,9,8,30,1,Jira,40
+2706826,149,69,Churned,149,124,36,0,,69
+6493151,77,18,Churned,115,107,8,2,"Jira, Slack",12
+7838512,134,33,Paying,134,69,26,1,MS Team,44
+2445856,110,58,Churned,55,45,18,4,"Google, Jira, Slack, Dropbox",8
+7444735,75,34,Paying,112,84,26,5,"Google, Slack, Zapier, Azure Cards, MS Team",96
+4119418,8,27,Paying,4,2,22,1,Dropbox,52
+4073671,59,2,Paying,29,5,1,5,"Google, Slack, Zapier, Azure Cards, MS Team",28
+2228481,174,17,Paying,348,26,13,0,,26
+7720052,23,14,Churned,0,0,3,2,"MS Team, Azure Cards",60
+5289681,65,55,Paying,162,111,43,1,Slack,64
+1510699,60,28,Paying,90,78,21,1,Google,65
+4439648,19,38,Paying,38,7,26,5,"Jira, Google, Slack, Zapier, Dropbox",36
+2344271,8,0,Churned,12,8,0,1,Jira,62
+1550154,278,17,Paying,556,112,12,1,Zapier,3
+4592940,119,45,Paying,238,95,35,2,"MS Team, Azure Cards",14
+4900049,126,7,Churned,0,0,7,2,"Jira, Slack",82
+4731754,141,20,Paying,70,1,15,4,"Google, Jira, Slack, Dropbox",40
+5037469,375,3,Churned,0,0,0,0,,29
+2390655,16,1,Churned,0,0,1,0,,41
+6839457,174,5,Paying,87,53,0,5,"Jira, Google, Slack, Zapier, Dropbox",1
+2605365,196,63,Churned,294,56,25,2,"Jira, Slack",2
+5078745,309,3,Churned,309,111,3,2,"Jira, Slack",21
+2356789,31,0,Churned,31,27,0,2,"Jira, Zapier",15
+4572143,264,73,Churned,396,368,29,0,,40
+8701129,200,24,Paying,400,225,19,4,"Slack, Zapier, MS Team, Azure Cards",34
+4521715,3,2,Churned,1,0,2,3,"Dropbox, Slack, Google",98
+5299989,70,74,Churned,70,6,37,3,"Dropbox, Slack, Google",20
+2464379,6,34,Paying,15,14,28,1,Zapier,66
+6316663,208,25,Paying,208,116,23,3,"MS Team, Azure Cards, Dropbox",88
+5953803,119,43,Paying,59,44,35,3,"Dropbox, Slack, Google",34
+7770476,155,54,Paying,310,261,46,4,"Slack, Zapier, MS Team, Azure Cards",79
+8361943,140,46,Paying,210,181,36,3,"MS Team, Azure Cards, Dropbox",90
+6945467,14,53,Churned,21,16,20,5,"Jira, Google, Slack, Zapier, Dropbox",85
+3298519,14,12,Paying,35,10,5,0,,47
+8185550,213,8,Paying,532,232,8,0,,72
+8496131,36,7,Paying,18,5,1,4,"Google, Jira, Slack, Dropbox",90
+8240578,32,57,Paying,16,13,46,3,"Dropbox, Slack, Google",53
+6309125,18,65,Churned,27,0,33,1,Dropbox,59
+7733010,60,11,Paying,150,29,11,3,"MS Team, Azure Cards, Dropbox",41
+6496319,294,50,Paying,588,66,40,0,,22
+7603362,35,73,Churned,35,6,39,4,"Google, Jira, Slack, Dropbox",28
+3158573,42,67,Churned,0,0,24,2,"MS Team, Azure Cards",37
+4118606,32,63,Churned,0,0,31,4,"Google, Jira, Slack, Dropbox",35
+1209045,48,55,Paying,48,41,44,5,"Jira, Google, Slack, Zapier, Dropbox",4
+3583123,307,32,Churned,153,119,25,3,"Jira, Slack, Zapier",17
+7371505,55,6,Churned,27,11,6,0,,19
+3391016,47,57,Paying,23,6,45,0,,6
+2670655,58,13,Churned,58,39,5,2,"Jira, Zapier",16
+1887802,51,64,Churned,0,0,32,3,"Jira, Slack, Zapier",81
+4614932,147,4,Churned,220,98,2,5,"Jira, Google, Slack, Zapier, Dropbox",74
+1011270,146,8,Paying,146,54,5,5,"Jira, Google, Slack, Zapier, Dropbox",10
+7728914,141,71,Churned,70,34,31,5,"Google, Slack, Zapier, Azure Cards, MS Team",100
+4737743,39,37,Paying,19,4,29,2,"Jira, Zapier",11
+1936290,325,7,Churned,325,40,3,2,"MS Team, Azure Cards",78
+1373300,218,6,Churned,327,117,5,3,"Dropbox, Slack, Google",13
+2552369,66,33,Paying,99,77,28,5,"Google, Slack, Zapier, Azure Cards, MS Team",53
+7158978,74,45,Paying,111,106,32,4,"Google, Jira, Slack, Dropbox",29
+5023239,176,2,Paying,264,205,0,0,,9
+4506694,117,73,Churned,117,9,39,3,"MS Team, Azure Cards, Dropbox",91
+5552217,47,8,Churned,70,19,2,5,"Jira, Google, Slack, Zapier, Dropbox",33
+4739186,41,16,Churned,61,45,2,1,Slack,32
+7251878,110,54,Paying,220,8,49,4,"Slack, Zapier, MS Team, Azure Cards",86
+8910149,10,58,Churned,0,0,32,0,,15
+6067556,83,1,Churned,124,1,1,3,"Dropbox, Slack, Google",16
+4748443,8,2,Churned,12,7,2,4,"Google, Jira, Slack, Dropbox",95
+4028495,143,61,Churned,214,13,39,3,"MS Team, Azure Cards, Dropbox",54
+8161806,42,65,Churned,0,0,25,4,"Slack, Zapier, MS Team, Azure Cards",34
+5721293,81,65,Churned,121,11,29,5,"Jira, Google, Slack, Zapier, Dropbox",85
+2976566,11,31,Paying,22,6,23,0,,12
+5464296,29,50,Paying,29,7,44,0,,84
+7641871,143,6,Paying,357,215,4,1,Dropbox,91
+3025913,232,48,Paying,580,157,39,3,"MS Team, Azure Cards, Dropbox",39
+4303346,60,72,Churned,60,15,35,5,"Google, Slack, Zapier, Azure Cards, MS Team",8
+6681512,230,35,Paying,115,90,26,0,,89
+1533405,18,39,Paying,9,6,32,1,MS Team,96
+3819002,263,63,Churned,394,88,25,2,"Jira, Zapier",78
+2685215,193,70,Churned,0,0,32,5,"Google, Slack, Zapier, Azure Cards, MS Team",27
+6737204,21,1,Churned,31,12,1,4,"Slack, Zapier, MS Team, Azure Cards",94
+6757630,115,53,Paying,287,101,42,0,,80
+6291652,6,6,Paying,15,12,4,4,"Slack, Zapier, MS Team, Azure Cards",27
+2757336,50,3,Churned,75,26,2,1,Dropbox,42
+3059057,221,51,Paying,110,60,42,2,"Jira, Slack",94
+2584132,108,27,Paying,54,53,17,5,"Google, Slack, Zapier, Azure Cards, MS Team",79
+7373830,278,35,Paying,695,283,29,0,,26
+6926940,303,75,Churned,0,0,38,0,,26
+6921397,5,65,Churned,2,0,23,3,"Jira, Slack, Zapier",28
+6821592,225,38,Paying,225,7,30,3,"Dropbox, Slack, Google",60
+5185244,71,4,Churned,71,28,4,3,"Jira, Slack, Zapier",54
+1678867,164,11,Paying,246,210,8,3,"Dropbox, Slack, Google",94
+2788193,133,57,Paying,133,60,48,3,"MS Team, Azure Cards, Dropbox",73
+2348790,67,9,Paying,33,13,8,1,Azure Cards,70
+3551822,60,14,Churned,0,0,8,5,"Google, Slack, Zapier, Azure Cards, MS Team",63
+6363932,116,65,Churned,174,79,26,5,"Jira, Google, Slack, Zapier, Dropbox",70
+6416681,20,6,Paying,20,6,5,0,,38
+3133601,41,56,Paying,82,34,44,3,"MS Team, Azure Cards, Dropbox",95
+4739103,96,73,Churned,48,10,31,0,,53
+1336476,20,16,Paying,10,5,12,4,"Slack, Zapier, MS Team, Azure Cards",39
+4466945,3,10,Paying,3,0,8,2,"Jira, Slack",78
+7606230,32,45,Paying,32,29,33,1,MS Team,53
+7599137,45,72,Churned,45,35,35,3,"Dropbox, Slack, Google",72
+4380136,106,12,Churned,53,17,4,3,"MS Team, Azure Cards, Dropbox",32
+2076913,2,55,Paying,1,0,43,0,,90
+6319408,100,9,Paying,100,83,7,3,"Jira, Slack, Zapier",16
+3633692,23,55,Churned,23,4,31,2,"MS Team, Azure Cards",68
+4982746,30,47,Paying,45,5,36,2,"Jira, Zapier",71
+5078581,124,69,Churned,0,0,45,0,,52
+1368668,33,13,Churned,33,23,4,2,"MS Team, Azure Cards",69
+7671852,38,70,Churned,57,38,27,4,"Google, Jira, Slack, Dropbox",20
+3477801,35,50,Churned,17,14,26,5,"Jira, Google, Slack, Zapier, Dropbox",38
+1393446,89,6,Churned,44,16,0,2,"MS Team, Azure Cards",21
+8332297,85,53,Paying,42,9,41,2,"Jira, Slack",37
+1688914,52,4,Churned,0,0,4,4,"Google, Jira, Slack, Dropbox",98
+8483920,103,10,Churned,103,4,2,3,"MS Team, Azure Cards, Dropbox",65
+7140703,166,13,Paying,332,271,8,2,"Jira, Zapier",98
+4367935,18,46,Paying,9,3,35,4,"Slack, Zapier, MS Team, Azure Cards",6
+7588575,51,2,Paying,102,60,2,1,Azure Cards,3
+2818196,206,73,Churned,103,60,35,1,Azure Cards,72
+2000021,9,8,Paying,9,3,8,4,"Slack, Zapier, MS Team, Azure Cards",48
+1327314,150,25,Churned,150,27,6,4,"Google, Jira, Slack, Dropbox",20
+3755990,179,5,Churned,0,0,3,2,"MS Team, Azure Cards",53
+5401821,44,31,Paying,110,40,21,2,"Jira, Zapier",50
+7268663,115,56,Paying,287,169,43,5,"Google, Slack, Zapier, Azure Cards, MS Team",11
+7092047,84,16,Paying,168,93,14,4,"Google, Jira, Slack, Dropbox",42
+3244183,244,51,Churned,366,257,24,4,"Google, Jira, Slack, Dropbox",79
+8114736,11,24,Paying,22,9,18,3,"MS Team, Azure Cards, Dropbox",73
+7804277,37,34,Paying,37,18,25,0,,61
+4452361,49,13,Churned,49,30,5,5,"Jira, Google, Slack, Zapier, Dropbox",16
+7018248,301,22,Churned,451,3,11,0,,36
+8365993,42,20,Paying,21,17,15,1,Azure Cards,31
+1977001,31,71,Churned,0,0,34,2,"MS Team, Azure Cards",59
+5891606,47,4,Churned,23,21,4,0,,4
+2623187,103,10,Paying,154,91,10,0,,70
+1579554,90,12,Churned,90,68,6,0,,45
+8379439,70,6,Paying,35,28,4,1,Slack,24
+2200414,25,4,Churned,12,10,4,3,"Jira, Slack, Zapier",78
+7121484,104,45,Paying,156,103,34,0,,82
+2939629,44,35,Paying,44,26,27,4,"Google, Jira, Slack, Dropbox",86
+5134459,155,60,Paying,387,195,49,2,"Jira, Zapier",68
+6643951,50,17,Churned,50,4,4,2,"Jira, Slack",91
+7333872,8,1,Churned,12,5,1,0,,14
+6179342,312,13,Churned,156,135,5,2,"MS Team, Azure Cards",77
+2752676,48,59,Churned,72,12,35,4,"Slack, Zapier, MS Team, Azure Cards",61
+5380971,242,65,Churned,121,101,27,0,,82
+7166347,50,56,Paying,50,17,44,0,,35
+4393366,15,28,Paying,30,1,23,4,"Google, Jira, Slack, Dropbox",22
+1212326,5,47,Paying,7,2,37,4,"Slack, Zapier, MS Team, Azure Cards",95
+5500120,128,65,Churned,64,27,34,4,"Google, Jira, Slack, Dropbox",99
+5404049,69,6,Paying,138,4,5,3,"MS Team, Azure Cards, Dropbox",9
+4336706,163,60,Churned,163,54,37,0,,26
+8624791,71,23,Paying,71,21,17,4,"Google, Jira, Slack, Dropbox",16
+6106627,17,52,Paying,25,16,38,5,"Jira, Google, Slack, Zapier, Dropbox",95
+5184074,59,6,Churned,29,12,1,2,"Jira, Slack",48
+3462278,59,50,Churned,59,1,27,0,,43
+7621811,182,21,Paying,91,57,19,3,"Dropbox, Slack, Google",31
+5950133,131,9,Paying,196,166,5,1,Zapier,5
+4149139,99,60,Churned,49,17,25,0,,52
+2646523,20,1,Paying,50,43,1,2,"MS Team, Azure Cards",19
+3305228,287,19,Paying,717,72,14,5,"Google, Slack, Zapier, Azure Cards, MS Team",83
+1521394,95,57,Churned,0,0,33,3,"MS Team, Azure Cards, Dropbox",40
+7887361,176,30,Paying,176,12,22,5,"Google, Slack, Zapier, Azure Cards, MS Team",16
+3301275,52,13,Paying,130,118,8,1,Dropbox,97
+6375018,13,52,Paying,6,1,44,5,"Jira, Google, Slack, Zapier, Dropbox",96
+1978956,11,57,Churned,11,2,33,4,"Slack, Zapier, MS Team, Azure Cards",60
+8784356,12,0,Churned,0,0,0,0,,37
+1547024,10,36,Paying,5,3,28,4,"Google, Jira, Slack, Dropbox",8
+8801863,21,22,Paying,10,4,14,4,"Google, Jira, Slack, Dropbox",69
+1439672,85,50,Paying,85,48,34,4,"Google, Jira, Slack, Dropbox",78
+6528995,25,18,Paying,62,53,10,5,"Google, Slack, Zapier, Azure Cards, MS Team",64
+3781214,24,12,Churned,12,10,2,2,"Jira, Zapier",48
+4999928,118,5,Paying,236,214,4,1,MS Team,67
+2333625,79,27,Churned,0,0,16,5,"Jira, Google, Slack, Zapier, Dropbox",13
+3862537,176,57,Paying,88,40,49,0,,96
+3057189,5,6,Paying,12,2,2,3,"MS Team, Azure Cards, Dropbox",73
+3375810,6,14,Paying,6,4,9,3,"Jira, Slack, Zapier",24
+4080292,131,56,Churned,65,57,23,2,"Jira, Slack",98
+7974824,66,24,Paying,33,13,20,1,Dropbox,65
+1229071,116,72,Churned,174,91,38,0,,33
+2801065,164,32,Churned,0,0,13,4,"Slack, Zapier, MS Team, Azure Cards",66
+5222858,232,68,Churned,0,0,33,5,"Google, Slack, Zapier, Azure Cards, MS Team",39
+2625879,120,4,Churned,120,75,4,4,"Google, Jira, Slack, Dropbox",31
+6987851,178,58,Churned,178,130,24,3,"Dropbox, Slack, Google",60
+6914492,60,21,Churned,30,9,8,2,"Jira, Zapier",56
+6333792,48,19,Paying,48,9,13,2,"MS Team, Azure Cards",29
+2690025,43,69,Churned,21,1,33,2,"Jira, Zapier",56
+1497128,15,25,Paying,7,0,20,3,"MS Team, Azure Cards, Dropbox",9
+6626093,34,3,Paying,51,44,2,5,"Jira, Google, Slack, Zapier, Dropbox",5
+4925694,50,52,Churned,25,15,36,5,"Google, Slack, Zapier, Azure Cards, MS Team",12
+8650853,85,52,Paying,212,206,44,1,Zapier,4
+6608421,17,60,Churned,17,13,31,1,Google,100
+8646262,99,2,Churned,148,137,2,3,"MS Team, Azure Cards, Dropbox",31
+3316380,61,17,Paying,30,20,11,0,,87
+7388942,60,16,Paying,60,13,14,4,"Google, Jira, Slack, Dropbox",60
+2413461,215,4,Paying,215,158,2,1,Google,14
+5617216,7,1,Churned,10,6,1,3,"MS Team, Azure Cards, Dropbox",69
+3117826,9,7,Churned,9,6,0,3,"Dropbox, Slack, Google",68
+6708285,24,41,Paying,36,1,32,2,"Jira, Zapier",1
+2144197,239,73,Churned,358,29,40,4,"Google, Jira, Slack, Dropbox",38
+2064476,146,7,Churned,219,206,4,2,"MS Team, Azure Cards",46
+8337474,38,13,Paying,57,30,13,1,Dropbox,92
+6041825,151,45,Paying,226,175,37,1,Dropbox,63
+4572327,21,21,Paying,21,13,15,2,"Jira, Zapier",84
+1416309,193,10,Churned,193,108,0,1,Zapier,22
+6398377,331,0,Churned,165,45,0,5,"Jira, Google, Slack, Zapier, Dropbox",21
+7232365,71,25,Paying,106,25,21,4,"Slack, Zapier, MS Team, Azure Cards",96
+7549098,38,42,Paying,38,1,33,1,Slack,17
+4335309,24,56,Paying,60,53,44,1,MS Team,99
+3857109,116,6,Paying,116,83,5,1,Jira,56
+4398550,48,2,Paying,24,9,2,0,,100
+2429662,135,16,Churned,135,104,16,3,"Dropbox, Slack, Google",87
+2132933,9,75,Churned,9,8,42,1,MS Team,12
+6356765,283,57,Paying,424,133,45,4,"Google, Jira, Slack, Dropbox",12
+7616963,40,34,Paying,60,21,30,4,"Google, Jira, Slack, Dropbox",92
+7683108,84,28,Churned,0,0,11,2,"MS Team, Azure Cards",8
+2291960,76,14,Paying,152,31,8,2,"Jira, Slack",51
+6702157,271,51,Paying,271,42,39,4,"Slack, Zapier, MS Team, Azure Cards",97
+7007008,38,13,Paying,95,57,9,0,,75
+6644284,122,70,Churned,0,0,38,0,,2
+3844462,31,13,Paying,31,3,10,5,"Google, Slack, Zapier, Azure Cards, MS Team",6
+5201286,84,60,Paying,210,49,45,0,,0
+4312668,17,16,Paying,42,21,13,4,"Google, Jira, Slack, Dropbox",18
+5363710,116,3,Churned,0,0,3,4,"Slack, Zapier, MS Team, Azure Cards",0
+1545360,88,75,Churned,132,62,35,0,,47
+7171505,68,38,Paying,68,62,29,4,"Google, Jira, Slack, Dropbox",100
+5066001,115,28,Paying,115,1,22,5,"Jira, Google, Slack, Zapier, Dropbox",47
+1592445,193,6,Paying,289,227,4,1,MS Team,26
+8732875,92,9,Paying,184,43,6,5,"Google, Slack, Zapier, Azure Cards, MS Team",67
+2100950,161,3,Churned,0,0,3,3,"Jira, Slack, Zapier",95
+4659778,41,4,Churned,61,24,4,3,"Dropbox, Slack, Google",95
+3857977,104,5,Paying,208,80,2,1,Azure Cards,8
+1911927,140,25,Paying,280,28,19,1,Zapier,9
+4928569,18,51,Paying,36,4,39,2,"MS Team, Azure Cards",79
+1207489,98,64,Churned,98,53,26,0,,16
+6735975,179,2,Paying,447,141,2,4,"Google, Jira, Slack, Dropbox",17
+4930461,72,61,Churned,36,6,28,2,"Jira, Slack",33
+8518235,4,52,Paying,6,1,40,2,"MS Team, Azure Cards",16
+6789580,41,23,Paying,41,2,17,3,"Dropbox, Slack, Google",69
+3605842,81,7,Churned,0,0,0,1,Zapier,49
+1648318,69,24,Paying,172,132,19,0,,11
+5467671,281,64,Churned,281,144,25,1,MS Team,16
+7239555,49,67,Churned,49,44,37,2,"MS Team, Azure Cards",65
+4777564,330,59,Churned,330,31,21,1,Google,27
+7983300,198,55,Churned,297,198,29,2,"MS Team, Azure Cards",46
+4626764,40,43,Paying,20,17,36,5,"Jira, Google, Slack, Zapier, Dropbox",87
+8014739,248,5,Churned,0,0,4,2,"MS Team, Azure Cards",0
+1219443,197,1,Paying,197,69,1,5,"Jira, Google, Slack, Zapier, Dropbox",6
+2504951,103,2,Churned,0,0,2,5,"Jira, Google, Slack, Zapier, Dropbox",65
+8015040,22,63,Churned,11,9,37,4,"Google, Jira, Slack, Dropbox",91
+1485313,35,3,Churned,0,0,0,5,"Jira, Google, Slack, Zapier, Dropbox",5
+7955421,32,21,Paying,48,30,16,2,"Jira, Slack",59
+4662876,50,19,Churned,0,0,8,5,"Google, Slack, Zapier, Azure Cards, MS Team",59
+7641332,44,30,Churned,0,0,23,4,"Google, Jira, Slack, Dropbox",97
+4673385,231,24,Paying,231,46,19,0,,69
+2235357,60,25,Paying,90,61,19,1,Google,61
+6663745,186,57,Paying,465,15,44,1,Google,56
+1398742,50,47,Paying,100,11,42,1,Jira,7
+5587444,380,34,Churned,380,297,17,0,,16
+7026744,108,1,Churned,162,98,1,5,"Jira, Google, Slack, Zapier, Dropbox",80
+8189372,95,20,Paying,47,34,15,0,,76
+7860339,3,41,Paying,3,1,32,4,"Google, Jira, Slack, Dropbox",8
+2930010,28,35,Paying,56,43,25,5,"Jira, Google, Slack, Zapier, Dropbox",51
+2848566,99,24,Paying,49,1,19,5,"Google, Slack, Zapier, Azure Cards, MS Team",100
+2921041,239,17,Churned,239,112,8,2,"MS Team, Azure Cards",47
+6074666,23,36,Paying,57,34,23,5,"Google, Slack, Zapier, Azure Cards, MS Team",51
+2483686,58,35,Paying,29,14,29,0,,26
+7753892,39,58,Churned,19,0,27,3,"Dropbox, Slack, Google",44
+5371215,28,7,Churned,14,8,6,5,"Google, Slack, Zapier, Azure Cards, MS Team",62
+8671561,53,48,Paying,79,48,38,2,"Jira, Slack",78
+5427528,288,67,Churned,0,0,22,1,MS Team,6
+3225003,289,6,Churned,289,182,5,0,,92
+7296744,84,41,Paying,126,119,30,5,"Jira, Google, Slack, Zapier, Dropbox",43
+6455950,143,27,Paying,357,342,19,1,Zapier,82
+8316468,169,25,Paying,338,38,23,5,"Jira, Google, Slack, Zapier, Dropbox",95
+1997482,129,18,Churned,129,100,10,2,"Jira, Slack",53
+1790492,18,49,Paying,36,6,37,0,,100
+8040536,120,54,Paying,60,10,45,0,,24
+6811833,159,8,Paying,159,64,4,5,"Google, Slack, Zapier, Azure Cards, MS Team",99
+3042911,40,12,Paying,20,7,8,1,Azure Cards,26
+4902162,83,16,Churned,41,40,7,0,,62
+7278305,34,15,Paying,85,76,13,5,"Google, Slack, Zapier, Azure Cards, MS Team",53
+5016633,273,9,Churned,136,100,4,1,Zapier,53
+1748480,46,68,Churned,0,0,29,2,"MS Team, Azure Cards",29
+6175513,182,21,Churned,273,167,16,4,"Slack, Zapier, MS Team, Azure Cards",24
+4991249,184,32,Paying,92,85,22,5,"Jira, Google, Slack, Zapier, Dropbox",55
+7601721,41,40,Paying,61,48,30,3,"MS Team, Azure Cards, Dropbox",96
+5191905,297,44,Paying,297,59,34,5,"Jira, Google, Slack, Zapier, Dropbox",98
+3297027,26,10,Paying,52,3,6,5,"Jira, Google, Slack, Zapier, Dropbox",78
+3413122,97,16,Churned,48,0,7,4,"Google, Jira, Slack, Dropbox",40
+2084147,133,49,Paying,133,110,38,1,Dropbox,35
+6581226,249,59,Churned,0,0,32,5,"Google, Slack, Zapier, Azure Cards, MS Team",12
+7455149,234,18,Churned,351,52,2,4,"Google, Jira, Slack, Dropbox",26
+7274321,215,69,Churned,0,0,35,4,"Google, Jira, Slack, Dropbox",73
+6175617,55,3,Churned,55,31,3,1,Google,21
+4869068,12,56,Churned,6,2,23,5,"Google, Slack, Zapier, Azure Cards, MS Team",35
+7865186,4,53,Paying,8,2,40,0,,94
+2716972,103,64,Churned,0,0,31,3,"MS Team, Azure Cards, Dropbox",85
+4070190,54,69,Churned,27,10,26,5,"Google, Slack, Zapier, Azure Cards, MS Team",91
+4714363,132,29,Paying,198,34,23,1,MS Team,35
+6000259,23,3,Churned,34,15,2,3,"MS Team, Azure Cards, Dropbox",95
+8565890,9,50,Churned,0,0,29,4,"Google, Jira, Slack, Dropbox",52
+8880890,3,12,Churned,0,0,1,0,,23
+2051894,23,3,Churned,0,0,2,1,Zapier,96
+6111720,12,53,Paying,30,10,42,4,"Google, Jira, Slack, Dropbox",53
+1255192,53,51,Paying,106,53,38,1,Slack,28
+7592148,171,59,Paying,427,331,44,0,,0
+6250497,13,56,Churned,6,3,22,4,"Slack, Zapier, MS Team, Azure Cards",46
+3772640,30,27,Paying,45,39,22,3,"Jira, Slack, Zapier",71
+3109364,12,1,Churned,6,4,1,1,Slack,19
+5635553,23,9,Churned,0,0,9,4,"Slack, Zapier, MS Team, Azure Cards",59
+2029359,203,6,Churned,0,0,6,4,"Google, Jira, Slack, Dropbox",67
+1238981,13,33,Paying,19,4,23,0,,76
+1487201,2,1,Paying,4,1,1,5,"Google, Slack, Zapier, Azure Cards, MS Team",1
+2109785,75,4,Paying,75,5,2,0,,38
+6675716,13,55,Churned,13,6,28,2,"MS Team, Azure Cards",82
+1018408,98,9,Churned,147,101,0,0,,81
+6210557,146,68,Churned,73,18,32,2,"Jira, Zapier",87
+7879412,85,37,Paying,127,122,30,2,"Jira, Slack",59
+2041560,79,68,Churned,0,0,26,3,"MS Team, Azure Cards, Dropbox",81
+6407461,30,34,Paying,60,12,27,1,Jira,21
+7407784,7,44,Paying,17,5,34,4,"Slack, Zapier, MS Team, Azure Cards",59
+1414624,47,16,Churned,47,38,1,4,"Slack, Zapier, MS Team, Azure Cards",76
+8369263,63,21,Paying,31,3,12,4,"Slack, Zapier, MS Team, Azure Cards",99
+8740276,32,61,Churned,16,7,30,0,,19
+3858718,169,74,Churned,0,0,39,5,"Google, Slack, Zapier, Azure Cards, MS Team",96
+2248586,101,73,Churned,50,10,31,3,"Jira, Slack, Zapier",20
+6436663,22,41,Paying,55,17,30,3,"MS Team, Azure Cards, Dropbox",95
+4490592,6,74,Churned,6,4,33,1,MS Team,40
+3411527,29,23,Paying,43,26,20,4,"Slack, Zapier, MS Team, Azure Cards",2
+2218177,47,29,Paying,94,5,22,3,"Jira, Slack, Zapier",82
+5513940,88,25,Churned,88,72,9,1,Dropbox,9
+2247981,126,71,Churned,126,35,37,2,"Jira, Slack",21
+6510876,32,18,Churned,32,8,12,4,"Google, Jira, Slack, Dropbox",70
+5597361,113,56,Paying,56,23,42,4,"Google, Jira, Slack, Dropbox",100
+8622397,67,15,Paying,33,8,9,3,"Dropbox, Slack, Google",18
+8844321,103,52,Paying,103,82,42,5,"Google, Slack, Zapier, Azure Cards, MS Team",41
+7887387,30,29,Paying,30,10,21,4,"Slack, Zapier, MS Team, Azure Cards",68
+5650412,63,70,Churned,63,6,30,3,"MS Team, Azure Cards, Dropbox",97
+3350060,5,55,Churned,2,0,27,0,,74
+4760169,123,23,Paying,246,165,16,1,Azure Cards,96
+1258876,102,52,Churned,0,0,29,0,,2
+4720598,46,50,Churned,23,2,19,1,MS Team,11
+5594933,30,7,Paying,60,31,4,4,"Google, Jira, Slack, Dropbox",40
+4642470,147,49,Paying,294,2,38,0,,83
+5699647,199,14,Churned,298,190,6,2,"MS Team, Azure Cards",88
+7921595,111,74,Churned,0,0,35,5,"Jira, Google, Slack, Zapier, Dropbox",96
+6653582,38,44,Paying,19,4,36,2,"Jira, Zapier",14
+8690171,39,60,Churned,19,2,22,2,"MS Team, Azure Cards",40
+7938349,98,49,Paying,245,91,37,1,Jira,12
+4881623,90,7,Churned,90,22,7,0,,19
+5160549,4,68,Churned,2,1,32,0,,11
+5774519,31,59,Paying,62,13,49,3,"Dropbox, Slack, Google",46
+1524877,89,45,Paying,222,122,39,5,"Jira, Google, Slack, Zapier, Dropbox",85
+4435999,73,15,Churned,73,46,15,5,"Google, Slack, Zapier, Azure Cards, MS Team",61
+5282723,238,68,Churned,119,73,37,3,"Jira, Slack, Zapier",15
+8956749,93,60,Paying,232,33,45,0,,46
+8125352,43,51,Churned,64,47,30,2,"MS Team, Azure Cards",54
+4515988,108,12,Paying,216,137,8,5,"Jira, Google, Slack, Zapier, Dropbox",27
+7397040,81,21,Paying,121,73,15,2,"MS Team, Azure Cards",83
+6916054,57,29,Paying,114,30,26,5,"Google, Slack, Zapier, Azure Cards, MS Team",38
+6711923,145,71,Churned,0,0,22,2,"Jira, Slack",83
+3349063,60,57,Churned,0,0,21,1,Jira,31
+4136954,81,27,Paying,162,33,21,2,"Jira, Slack",37
+3471309,50,11,Paying,50,46,11,4,"Google, Jira, Slack, Dropbox",83
+5645354,31,64,Churned,15,3,35,4,"Google, Jira, Slack, Dropbox",64
+7386493,26,2,Paying,39,12,0,5,"Google, Slack, Zapier, Azure Cards, MS Team",10
+3877845,200,55,Paying,100,87,42,2,"Jira, Slack",51
+1364825,192,5,Paying,96,33,3,0,,72
+6837385,118,53,Paying,118,90,40,1,Slack,97
+1530828,85,27,Paying,212,40,21,2,"MS Team, Azure Cards",33
+4522527,2,55,Paying,4,3,41,0,,77
+1995512,213,16,Paying,213,95,10,0,,13
+8234461,51,21,Paying,102,7,18,3,"Jira, Slack, Zapier",21
+7492151,29,47,Paying,14,4,32,3,"Jira, Slack, Zapier",48
+7073488,147,7,Churned,73,48,5,1,Zapier,9
+1233888,37,8,Paying,55,0,7,1,Jira,75
+8782586,42,11,Churned,21,19,5,0,,21
+1026385,69,61,Churned,0,0,31,4,"Slack, Zapier, MS Team, Azure Cards",36
+6191370,157,75,Churned,235,167,44,1,Azure Cards,13
+6430079,113,15,Churned,56,26,3,4,"Google, Jira, Slack, Dropbox",2
+7133049,241,10,Paying,482,255,9,1,MS Team,2
+6330346,37,26,Paying,55,45,20,0,,94
+1032991,46,53,Paying,23,2,41,3,"Jira, Slack, Zapier",49
+7902159,179,51,Paying,89,50,41,1,Google,90
+3453952,198,73,Churned,99,17,34,1,Azure Cards,29
+8114039,65,38,Paying,32,24,32,5,"Jira, Google, Slack, Zapier, Dropbox",59
+2740571,68,74,Churned,34,22,42,4,"Google, Jira, Slack, Dropbox",25
+6408587,14,15,Churned,21,3,4,3,"Dropbox, Slack, Google",19
+6532115,116,20,Paying,58,6,12,2,"Jira, Zapier",31
+3019350,78,2,Paying,117,101,2,4,"Google, Jira, Slack, Dropbox",8
+1447609,103,48,Paying,154,126,39,0,,66
+7449148,325,73,Churned,325,40,30,0,,98
+1601395,118,34,Paying,118,66,26,2,"Jira, Zapier",68
+3380686,28,15,Paying,28,15,8,3,"Jira, Slack, Zapier",100
+5976333,8,53,Paying,12,9,42,1,Dropbox,10
+2138086,48,4,Churned,48,35,4,0,,92
+7664325,239,61,Churned,239,230,33,4,"Google, Jira, Slack, Dropbox",79
+5118288,41,53,Paying,61,17,44,5,"Jira, Google, Slack, Zapier, Dropbox",29
+5159705,43,34,Paying,43,23,25,3,"Dropbox, Slack, Google",79
+4704086,19,15,Churned,9,7,4,5,"Jira, Google, Slack, Zapier, Dropbox",9
+6892988,256,56,Paying,256,104,43,5,"Google, Slack, Zapier, Azure Cards, MS Team",21
+3268875,23,1,Paying,11,5,0,1,Zapier,47
+3380050,36,12,Paying,18,3,9,3,"MS Team, Azure Cards, Dropbox",92
+7985783,57,41,Paying,85,80,33,5,"Jira, Google, Slack, Zapier, Dropbox",53
+3796376,62,74,Churned,31,13,37,2,"MS Team, Azure Cards",65
+8593168,75,12,Paying,150,40,6,2,"MS Team, Azure Cards",97
+8729646,34,23,Paying,68,66,19,1,Azure Cards,55
+7257703,84,58,Paying,42,1,47,1,Azure Cards,55
+3777942,34,64,Churned,17,4,29,1,Dropbox,22
+4343226,79,16,Churned,0,0,14,5,"Google, Slack, Zapier, Azure Cards, MS Team",13
+5688651,23,51,Paying,34,7,39,2,"Jira, Slack",43
+8339723,180,32,Paying,90,23,26,4,"Slack, Zapier, MS Team, Azure Cards",91
+6698257,88,23,Paying,132,15,18,5,"Google, Slack, Zapier, Azure Cards, MS Team",41
+1637238,169,6,Churned,84,12,5,5,"Jira, Google, Slack, Zapier, Dropbox",1
+2234171,78,59,Churned,0,0,29,2,"MS Team, Azure Cards",89
+3023136,28,53,Paying,56,2,43,2,"MS Team, Azure Cards",68
+2673027,265,2,Churned,397,333,2,5,"Jira, Google, Slack, Zapier, Dropbox",74
+1042279,121,24,Paying,302,18,19,2,"MS Team, Azure Cards",21
+8403686,64,43,Paying,64,27,36,4,"Google, Jira, Slack, Dropbox",99
+8574069,23,60,Churned,11,1,27,3,"Dropbox, Slack, Google",75
+7856826,23,13,Paying,46,18,13,2,"Jira, Zapier",73
+3586277,45,25,Churned,67,11,15,0,,77
+1103748,18,44,Paying,18,11,35,0,,17
+2695348,49,14,Paying,24,15,13,1,Google,41
+7178952,41,36,Paying,41,0,25,1,MS Team,86
+7946790,12,64,Churned,0,0,37,1,Dropbox,5
+4441768,41,40,Paying,20,17,31,5,"Jira, Google, Slack, Zapier, Dropbox",51
+5943959,32,10,Churned,48,21,6,2,"Jira, Zapier",80
+5091759,45,27,Paying,67,6,19,4,"Google, Jira, Slack, Dropbox",40
+7748330,246,11,Paying,492,376,9,3,"Dropbox, Slack, Google",21
+6009136,133,45,Paying,266,244,34,0,,39
+3355116,113,24,Paying,226,186,20,4,"Google, Jira, Slack, Dropbox",49
+5218460,244,70,Churned,0,0,38,3,"Dropbox, Slack, Google",44
+6593460,24,8,Churned,12,6,1,4,"Slack, Zapier, MS Team, Azure Cards",64
+2888206,50,23,Churned,50,9,6,5,"Jira, Google, Slack, Zapier, Dropbox",29
+4895194,53,51,Paying,53,32,41,2,"MS Team, Azure Cards",63
+7426639,38,10,Paying,19,11,10,4,"Google, Jira, Slack, Dropbox",36
+4862131,279,65,Churned,418,35,35,4,"Google, Jira, Slack, Dropbox",55
+5154568,43,24,Paying,21,10,19,0,,7
+6571964,114,7,Churned,171,5,1,2,"MS Team, Azure Cards",44
+1169244,26,13,Paying,26,10,10,0,,38
+4613261,78,69,Churned,39,22,38,2,"Jira, Slack",49
+1030987,47,54,Paying,23,0,42,4,"Google, Jira, Slack, Dropbox",90
+1771785,209,0,Churned,104,3,0,3,"Jira, Slack, Zapier",34
+5014820,148,47,Paying,296,36,37,2,"MS Team, Azure Cards",83
+3672784,103,21,Churned,51,47,2,0,,80
+3968092,48,13,Paying,72,63,7,0,,40
+8522931,141,54,Churned,0,0,28,5,"Jira, Google, Slack, Zapier, Dropbox",15
+4657533,98,9,Churned,0,0,0,5,"Jira, Google, Slack, Zapier, Dropbox",80
+5914383,39,6,Churned,39,35,6,4,"Slack, Zapier, MS Team, Azure Cards",29
+8024164,129,12,Paying,193,141,12,0,,26
+4931837,78,41,Paying,117,79,31,2,"Jira, Slack",10
+2219154,203,65,Churned,101,96,39,5,"Google, Slack, Zapier, Azure Cards, MS Team",67
+8162440,95,21,Churned,0,0,4,1,Dropbox,24
+6928937,26,52,Paying,13,6,39,5,"Jira, Google, Slack, Zapier, Dropbox",58
+8006435,155,28,Paying,387,248,23,1,Azure Cards,61
+3631823,14,62,Churned,14,6,27,0,,69
+7081070,139,35,Paying,278,206,28,5,"Jira, Google, Slack, Zapier, Dropbox",40
+1805399,19,39,Paying,9,3,32,1,Slack,85
+2597682,18,0,Churned,9,7,0,2,"Jira, Slack",94
+2150922,43,35,Paying,86,31,27,0,,21
+1613906,46,61,Churned,46,5,36,2,"Jira, Zapier",75
+6657458,25,73,Churned,37,1,38,4,"Google, Jira, Slack, Dropbox",94
+8685624,39,71,Churned,58,52,37,1,Dropbox,69
+8881305,113,14,Churned,113,34,9,1,Azure Cards,49
+8220387,142,59,Churned,213,106,27,0,,36
+4586366,101,73,Churned,50,41,36,0,,9
+3080791,194,35,Paying,485,412,25,3,"Jira, Slack, Zapier",13
+5293084,8,29,Paying,16,4,23,2,"Jira, Zapier",82
+1905188,185,47,Paying,370,264,38,1,Azure Cards,12
+2558466,98,33,Paying,49,7,27,5,"Google, Slack, Zapier, Azure Cards, MS Team",42
+7104134,137,18,Churned,205,156,8,1,Dropbox,11
+4320141,137,53,Paying,137,41,45,1,MS Team,4
+7557015,179,58,Paying,447,409,45,2,"Jira, Slack",98
+7793004,103,4,Churned,103,92,4,3,"Jira, Slack, Zapier",53
+8231348,149,6,Paying,298,220,5,0,,48
+5073157,90,3,Churned,90,40,3,1,Zapier,14
+1072999,35,8,Paying,52,5,6,5,"Jira, Google, Slack, Zapier, Dropbox",15
+8216073,154,75,Churned,77,21,38,2,"Jira, Slack",100
+3875550,215,3,Churned,0,0,0,4,"Slack, Zapier, MS Team, Azure Cards",98
+6763533,25,5,Paying,37,17,5,4,"Slack, Zapier, MS Team, Azure Cards",71
+6508544,88,32,Paying,220,41,23,4,"Google, Jira, Slack, Dropbox",73
+6461045,339,13,Churned,339,315,5,3,"MS Team, Azure Cards, Dropbox",0
+5323601,74,4,Churned,0,0,4,4,"Google, Jira, Slack, Dropbox",99
+7571368,86,75,Churned,129,111,42,3,"MS Team, Azure Cards, Dropbox",20
+3897757,48,16,Paying,24,4,14,5,"Google, Slack, Zapier, Azure Cards, MS Team",70
+4071051,207,73,Churned,207,176,40,3,"MS Team, Azure Cards, Dropbox",83
+6842221,107,44,Paying,53,31,35,3,"Jira, Slack, Zapier",95
+8772683,52,33,Paying,104,54,29,1,Google,21
+1717459,11,39,Paying,27,4,30,5,"Jira, Google, Slack, Zapier, Dropbox",96
+1604837,28,51,Paying,42,11,38,4,"Google, Jira, Slack, Dropbox",93
+2646421,41,13,Churned,41,25,2,3,"Dropbox, Slack, Google",70
+6147497,140,9,Paying,280,96,6,0,,95
+7423164,7,8,Paying,14,2,7,0,,90
+6354875,33,11,Churned,33,24,9,0,,37
+6489537,30,27,Churned,45,25,20,0,,25
+6935054,150,2,Paying,150,100,2,0,,97
+2224818,20,15,Paying,30,18,15,5,"Jira, Google, Slack, Zapier, Dropbox",3
+3279433,35,12,Paying,87,11,5,3,"Dropbox, Slack, Google",93
+6044514,151,36,Paying,302,194,26,3,"MS Team, Azure Cards, Dropbox",73
+6080030,114,55,Paying,114,51,45,0,,4
+7699154,60,37,Paying,120,99,30,1,MS Team,55
+3653148,45,32,Churned,45,18,23,5,"Jira, Google, Slack, Zapier, Dropbox",21
+6437715,367,18,Churned,0,0,5,0,,70
+3036898,60,66,Churned,30,5,41,4,"Google, Jira, Slack, Dropbox",43
+2294139,141,9,Paying,211,206,9,0,,22
+5673062,340,22,Churned,340,36,16,5,"Jira, Google, Slack, Zapier, Dropbox",85
+6249509,66,63,Churned,0,0,34,4,"Slack, Zapier, MS Team, Azure Cards",6
+7746994,69,12,Paying,103,99,7,4,"Google, Jira, Slack, Dropbox",0
+1128860,250,23,Paying,375,185,15,4,"Slack, Zapier, MS Team, Azure Cards",27
+5091608,259,65,Churned,129,127,37,1,Jira,14
+8800905,80,48,Paying,120,116,38,2,"Jira, Slack",56
+3910451,81,41,Paying,202,130,33,2,"Jira, Zapier",98
+3283118,60,61,Churned,90,66,36,3,"Dropbox, Slack, Google",80
+7961598,27,23,Churned,27,6,6,5,"Jira, Google, Slack, Zapier, Dropbox",47
+7850748,340,72,Churned,510,149,32,4,"Slack, Zapier, MS Team, Azure Cards",86
+1981977,15,5,Paying,15,11,0,5,"Jira, Google, Slack, Zapier, Dropbox",59
+6804016,41,12,Paying,61,21,12,1,Azure Cards,88
+2278874,122,4,Churned,0,0,4,5,"Google, Slack, Zapier, Azure Cards, MS Team",39
+7612433,248,72,Churned,0,0,35,1,Zapier,12
+1891034,21,53,Paying,10,4,47,5,"Google, Slack, Zapier, Azure Cards, MS Team",62
+6165200,100,1,Churned,50,15,1,4,"Google, Jira, Slack, Dropbox",68
+1895285,156,16,Churned,78,60,10,0,,36
+4621853,25,59,Paying,50,26,46,4,"Google, Jira, Slack, Dropbox",72
+6373333,246,17,Churned,369,123,5,5,"Google, Slack, Zapier, Azure Cards, MS Team",38
+4544985,184,66,Churned,276,268,36,2,"Jira, Zapier",60
+5341339,314,67,Churned,314,277,35,2,"Jira, Zapier",21
+8552229,68,4,Churned,68,67,1,0,,97
+6529302,38,54,Churned,57,24,26,4,"Slack, Zapier, MS Team, Azure Cards",13
+6876432,68,59,Churned,0,0,35,5,"Jira, Google, Slack, Zapier, Dropbox",44
+6290418,42,65,Churned,63,57,31,3,"Jira, Slack, Zapier",24
+6389274,118,6,Churned,177,166,6,0,,13
+8699360,138,15,Paying,345,270,15,5,"Google, Slack, Zapier, Azure Cards, MS Team",74
+8972841,25,33,Paying,62,23,29,1,Slack,95
+2794382,336,3,Churned,168,146,3,3,"Dropbox, Slack, Google",29
+1421939,18,63,Churned,9,1,30,3,"Jira, Slack, Zapier",79
+5114960,4,62,Churned,2,1,31,0,,2
+6127888,44,11,Paying,110,36,6,0,,20
+8646500,7,7,Paying,14,6,7,1,Dropbox,95
+7226958,114,8,Paying,57,55,5,0,,69
+1770052,191,75,Churned,191,37,47,3,"Jira, Slack, Zapier",17
+1259415,71,56,Churned,35,33,27,5,"Google, Slack, Zapier, Azure Cards, MS Team",23
+8115298,2,57,Paying,3,1,44,0,,38
+4729464,93,49,Paying,46,4,40,0,,0
+5421032,153,53,Paying,306,70,41,3,"MS Team, Azure Cards, Dropbox",42
+4643405,42,17,Paying,42,14,14,0,,57
+2230992,140,28,Paying,70,23,19,4,"Google, Jira, Slack, Dropbox",23
+1662270,23,61,Churned,34,4,29,5,"Google, Slack, Zapier, Azure Cards, MS Team",47
+8242964,12,59,Paying,18,15,46,4,"Google, Jira, Slack, Dropbox",44
+2929418,9,8,Paying,22,4,7,2,"Jira, Slack",31
+8186649,290,20,Paying,580,460,15,3,"MS Team, Azure Cards, Dropbox",72
+6129886,151,5,Paying,302,218,3,2,"Jira, Slack",3
+7227197,105,13,Paying,52,45,10,4,"Slack, Zapier, MS Team, Azure Cards",0
+3693955,15,44,Paying,15,4,33,1,Azure Cards,51
+1415782,263,41,Paying,394,309,34,4,"Google, Jira, Slack, Dropbox",3
+3814097,30,67,Churned,0,0,37,2,"Jira, Zapier",94
+2363399,43,73,Churned,21,18,36,1,Zapier,98
+5558369,22,15,Paying,55,45,13,1,Jira,45
+3326381,70,21,Paying,35,21,16,3,"Jira, Slack, Zapier",53
+6134936,85,57,Churned,127,0,24,0,,78
+7721718,17,19,Churned,8,2,12,5,"Jira, Google, Slack, Zapier, Dropbox",97
+7812262,89,24,Paying,89,78,17,3,"Jira, Slack, Zapier",50
+8236556,9,60,Paying,4,2,43,3,"MS Team, Azure Cards, Dropbox",56
+5815521,216,63,Churned,324,126,30,1,Zapier,51
+6520754,49,57,Paying,122,55,44,3,"Jira, Slack, Zapier",55
+2768871,35,35,Paying,52,14,26,5,"Jira, Google, Slack, Zapier, Dropbox",88
+5328147,83,4,Churned,83,24,0,2,"Jira, Slack",28
+7537495,34,50,Churned,51,40,17,2,"Jira, Zapier",78
+1414454,25,26,Paying,50,49,20,0,,69
+7984539,43,22,Paying,107,53,20,0,,43
+6295410,98,9,Paying,245,146,4,1,Google,53
+6500319,206,48,Paying,412,76,39,3,"Jira, Slack, Zapier",26
+1019442,33,50,Paying,16,5,43,5,"Google, Slack, Zapier, Azure Cards, MS Team",86
+2029547,116,60,Churned,174,46,32,0,,90
+7460008,30,41,Paying,45,39,36,3,"Jira, Slack, Zapier",66
+2625034,10,39,Paying,5,1,29,3,"MS Team, Azure Cards, Dropbox",11
+6241402,18,58,Churned,0,0,27,3,"Dropbox, Slack, Google",48
+1536320,194,72,Churned,97,13,27,2,"Jira, Slack",95
+2556501,87,69,Churned,130,19,34,5,"Google, Slack, Zapier, Azure Cards, MS Team",90
+6107856,8,26,Paying,16,15,20,3,"Jira, Slack, Zapier",80
+5601487,10,60,Churned,10,0,22,4,"Slack, Zapier, MS Team, Azure Cards",91
+8609359,38,25,Paying,38,21,20,0,,93
+8101039,389,12,Churned,389,225,6,3,"MS Team, Azure Cards, Dropbox",60
+5295643,203,6,Paying,203,196,5,4,"Slack, Zapier, MS Team, Azure Cards",89
+3331061,21,7,Paying,42,29,2,3,"Jira, Slack, Zapier",35
+5117437,75,1,Paying,37,32,1,3,"MS Team, Azure Cards, Dropbox",7
+8927581,170,66,Churned,170,56,24,0,,63
+2566270,96,2,Paying,192,148,1,2,"Jira, Slack",78
+1805166,40,7,Paying,40,25,6,2,"MS Team, Azure Cards",15
+3760839,103,70,Churned,51,4,27,1,Jira,72
+3887372,99,7,Churned,99,1,4,5,"Google, Slack, Zapier, Azure Cards, MS Team",47
+3790377,226,70,Churned,226,137,36,5,"Jira, Google, Slack, Zapier, Dropbox",81
+1930180,215,28,Paying,215,20,24,0,,45
+5916685,394,6,Churned,394,216,4,2,"Jira, Zapier",82
+6060064,94,13,Paying,141,43,11,4,"Google, Jira, Slack, Dropbox",17
+4077076,15,24,Churned,0,0,12,3,"Dropbox, Slack, Google",1
+2127546,22,25,Churned,22,12,12,5,"Jira, Google, Slack, Zapier, Dropbox",28
+1197063,60,59,Churned,30,7,25,5,"Jira, Google, Slack, Zapier, Dropbox",11
+8396326,160,60,Churned,0,0,31,0,,56
+3081582,198,10,Churned,198,90,0,4,"Google, Jira, Slack, Dropbox",61
+1056910,9,24,Paying,22,5,20,4,"Slack, Zapier, MS Team, Azure Cards",55
+6902069,213,61,Churned,106,60,43,0,,31
+8172382,303,27,Churned,303,225,10,0,,67
+5254796,21,33,Paying,10,9,27,0,,6
+2316883,131,44,Paying,65,61,34,2,"MS Team, Azure Cards",64
+6694059,145,8,Paying,362,26,5,3,"Jira, Slack, Zapier",88
+1458941,204,1,Paying,408,160,0,5,"Google, Slack, Zapier, Azure Cards, MS Team",57
+3970419,109,58,Paying,163,132,44,3,"MS Team, Azure Cards, Dropbox",88
+2038642,208,46,Paying,208,42,35,3,"Dropbox, Slack, Google",79
+2815219,71,50,Churned,106,81,34,2,"Jira, Slack",72
+8540070,79,57,Churned,118,110,17,0,,25
+8656414,166,69,Churned,0,0,35,5,"Google, Slack, Zapier, Azure Cards, MS Team",9
+3392356,212,2,Paying,212,51,0,4,"Google, Jira, Slack, Dropbox",60
+3103908,164,1,Churned,246,167,0,5,"Jira, Google, Slack, Zapier, Dropbox",35
+2485909,67,33,Paying,134,55,27,4,"Slack, Zapier, MS Team, Azure Cards",66
+5651111,129,57,Paying,322,300,46,4,"Google, Jira, Slack, Dropbox",42
+1511483,32,43,Paying,80,77,35,0,,77
+7594215,39,6,Churned,58,56,6,5,"Google, Slack, Zapier, Azure Cards, MS Team",61
+4596835,100,58,Churned,0,0,35,0,,44
+5481190,19,54,Churned,19,1,34,5,"Jira, Google, Slack, Zapier, Dropbox",42
+4014810,155,72,Churned,232,30,39,2,"Jira, Slack",61
+1777537,373,5,Churned,559,518,5,2,"Jira, Slack",18
+2948145,87,57,Churned,87,74,31,4,"Google, Jira, Slack, Dropbox",59
+7225416,183,65,Churned,91,26,37,3,"MS Team, Azure Cards, Dropbox",96
+7598093,206,18,Paying,412,108,14,2,"Jira, Slack",62
+2888906,4,29,Paying,2,1,22,2,"Jira, Zapier",41
+5361819,137,54,Churned,0,0,31,3,"Dropbox, Slack, Google",12
+4990103,145,32,Paying,362,95,26,0,,34
+5346580,342,1,Churned,0,0,1,5,"Jira, Google, Slack, Zapier, Dropbox",5
+1791494,162,2,Paying,405,247,0,1,Slack,10
+6324901,6,25,Churned,0,0,5,4,"Slack, Zapier, MS Team, Azure Cards",41
+4308499,10,4,Churned,15,0,1,1,Zapier,60
+6191509,71,18,Paying,71,66,13,1,MS Team,74
+4973091,23,31,Paying,46,39,23,1,Jira,5
+6705630,221,12,Paying,331,54,12,1,Zapier,49
+1688357,241,24,Churned,120,114,5,0,,11
+3605214,92,4,Paying,46,0,0,1,Dropbox,96
+6356752,21,31,Paying,31,20,28,5,"Google, Slack, Zapier, Azure Cards, MS Team",78
+6711086,32,14,Churned,48,4,7,0,,94
+4034888,95,12,Paying,190,90,8,2,"Jira, Zapier",89
+2802759,129,25,Paying,258,8,21,1,Azure Cards,22
+8178755,56,9,Paying,84,63,6,2,"MS Team, Azure Cards",44
+5358446,21,15,Churned,31,24,4,4,"Slack, Zapier, MS Team, Azure Cards",70
+2002660,97,60,Churned,145,25,29,1,Azure Cards,71
+5576149,23,6,Paying,57,31,5,3,"MS Team, Azure Cards, Dropbox",34
+4696201,318,60,Churned,159,7,26,0,,65
+7325753,35,30,Paying,17,12,25,3,"Jira, Slack, Zapier",46
+6206547,94,24,Paying,235,37,20,2,"MS Team, Azure Cards",8
+2682929,43,55,Paying,86,37,49,2,"MS Team, Azure Cards",6
+5429677,19,0,Churned,28,6,0,0,,3
+2659401,222,2,Paying,444,434,1,5,"Jira, Google, Slack, Zapier, Dropbox",47
+5095558,88,22,Churned,88,34,10,3,"Jira, Slack, Zapier",5
+4442312,164,11,Churned,246,198,11,5,"Google, Slack, Zapier, Azure Cards, MS Team",27
+5633909,141,59,Paying,352,206,45,5,"Jira, Google, Slack, Zapier, Dropbox",42
+6739830,5,6,Churned,2,0,2,1,Jira,52
+3147447,10,21,Paying,5,1,15,3,"MS Team, Azure Cards, Dropbox",18
+5441298,16,58,Churned,16,1,35,2,"Jira, Zapier",65
+7806227,8,2,Churned,4,0,2,0,,77
+8275474,154,73,Churned,77,24,39,1,Jira,9
+5992392,113,57,Churned,0,0,28,5,"Jira, Google, Slack, Zapier, Dropbox",50
+7565694,72,47,Paying,72,29,36,2,"Jira, Slack",82
+1937471,45,25,Paying,112,70,21,0,,11
+7292221,7,61,Churned,3,0,38,5,"Jira, Google, Slack, Zapier, Dropbox",17
+6683933,74,59,Churned,111,56,25,2,"MS Team, Azure Cards",32
+3050862,107,27,Churned,160,34,10,3,"Dropbox, Slack, Google",68
+1332394,37,28,Paying,55,33,22,3,"MS Team, Azure Cards, Dropbox",53
+5452806,196,52,Churned,196,33,32,3,"MS Team, Azure Cards, Dropbox",81
+8735125,88,18,Paying,220,49,14,2,"Jira, Zapier",69
+7564583,8,6,Churned,4,1,6,2,"MS Team, Azure Cards",69
+7617074,86,36,Paying,129,79,29,0,,99
+6935165,8,54,Paying,16,13,44,5,"Jira, Google, Slack, Zapier, Dropbox",36
+2038575,232,7,Paying,348,160,7,4,"Slack, Zapier, MS Team, Azure Cards",67
+5681637,336,68,Churned,168,141,31,2,"Jira, Slack",51
+1136723,48,66,Churned,24,16,34,0,,67
+2906755,86,74,Churned,86,20,43,0,,27
+8077080,72,60,Paying,72,7,50,4,"Google, Jira, Slack, Dropbox",63
+4292279,246,59,Paying,123,111,49,5,"Jira, Google, Slack, Zapier, Dropbox",66
+4631690,88,68,Churned,0,0,25,5,"Jira, Google, Slack, Zapier, Dropbox",14
+7283039,47,10,Churned,70,43,0,2,"Jira, Slack",93
+8072649,65,2,Paying,130,74,2,3,"Jira, Slack, Zapier",71
+1435197,7,37,Paying,14,13,31,3,"Jira, Slack, Zapier",14
+7408661,13,62,Churned,0,0,29,1,Dropbox,63
+8822722,21,18,Churned,31,0,3,2,"Jira, Zapier",23
+1622598,223,2,Churned,0,0,2,0,,67
+8928802,22,33,Paying,11,0,24,5,"Google, Slack, Zapier, Azure Cards, MS Team",74
+7745862,282,34,Paying,423,280,26,4,"Google, Jira, Slack, Dropbox",76
+3800280,10,16,Paying,5,1,12,4,"Google, Jira, Slack, Dropbox",42
+1121743,37,75,Churned,55,44,39,0,,58
+1357973,35,29,Paying,35,0,22,3,"Dropbox, Slack, Google",35
+2664769,26,15,Churned,26,25,4,4,"Slack, Zapier, MS Team, Azure Cards",97
+3637337,54,16,Paying,27,24,8,3,"MS Team, Azure Cards, Dropbox",64
+1800065,4,70,Churned,6,2,32,1,Azure Cards,1
+4219367,107,5,Paying,214,84,0,0,,12
+8189131,24,13,Churned,12,8,12,5,"Google, Slack, Zapier, Azure Cards, MS Team",28
+5889760,75,69,Churned,37,8,20,1,Azure Cards,82
+1361783,128,31,Churned,128,93,17,1,MS Team,80
+3731899,8,6,Churned,4,0,0,0,,50
+5623494,150,1,Churned,0,0,1,3,"Dropbox, Slack, Google",92
+5453327,29,0,Churned,43,9,0,4,"Slack, Zapier, MS Team, Azure Cards",47
+4018511,31,20,Paying,62,22,18,0,,6
+6175555,81,56,Paying,162,54,45,2,"Jira, Zapier",83
+5311577,47,47,Paying,94,45,33,5,"Jira, Google, Slack, Zapier, Dropbox",3
+7909934,30,28,Paying,15,13,23,5,"Google, Slack, Zapier, Azure Cards, MS Team",71
+8106977,243,30,Paying,486,320,24,0,,0
+1844273,92,8,Churned,138,131,2,2,"Jira, Slack",34
+8103258,64,33,Paying,160,105,27,4,"Google, Jira, Slack, Dropbox",55
+4807441,106,62,Churned,159,24,38,5,"Jira, Google, Slack, Zapier, Dropbox",70
+5452677,34,73,Churned,0,0,36,0,,95
+8630756,119,1,Churned,119,101,1,5,"Google, Slack, Zapier, Azure Cards, MS Team",13
+4279922,77,9,Paying,115,114,7,2,"MS Team, Azure Cards",61
+4288812,7,66,Churned,7,2,31,0,,71
+6439985,66,73,Churned,33,23,27,3,"MS Team, Azure Cards, Dropbox",65
+4750224,241,4,Churned,0,0,4,5,"Google, Slack, Zapier, Azure Cards, MS Team",88
+5606133,40,1,Churned,40,10,1,0,,37
+1017105,180,46,Paying,180,146,35,5,"Jira, Google, Slack, Zapier, Dropbox",26
+5881758,110,71,Churned,55,29,31,1,Google,34
+5656799,87,17,Paying,217,214,16,3,"MS Team, Azure Cards, Dropbox",56
+5140927,100,11,Paying,150,144,9,4,"Google, Jira, Slack, Dropbox",49
+7866763,68,16,Paying,34,10,11,4,"Google, Jira, Slack, Dropbox",21
+5716803,5,57,Churned,2,1,34,1,Dropbox,95
+2944453,84,6,Churned,42,36,0,0,,72
+7540093,157,51,Churned,235,37,25,3,"Dropbox, Slack, Google",28
+1674232,137,0,Churned,68,42,0,3,"MS Team, Azure Cards, Dropbox",94
+7988416,45,53,Paying,112,26,38,3,"MS Team, Azure Cards, Dropbox",34
+1288510,23,3,Paying,57,4,0,0,,13
+4957428,38,7,Churned,19,16,2,4,"Slack, Zapier, MS Team, Azure Cards",42
+4480977,140,1,Churned,0,0,1,3,"MS Team, Azure Cards, Dropbox",58
+8945637,9,64,Churned,0,0,36,2,"Jira, Zapier",51
+7653437,62,23,Paying,124,27,17,2,"Jira, Slack",77
+2912987,5,3,Paying,5,3,3,3,"MS Team, Azure Cards, Dropbox",35
+7631100,3,39,Paying,7,1,30,2,"MS Team, Azure Cards",8
+6420826,15,65,Churned,7,6,33,0,,46
+7490257,232,3,Churned,232,223,3,5,"Jira, Google, Slack, Zapier, Dropbox",97
+1826326,53,15,Churned,53,25,6,5,"Google, Slack, Zapier, Azure Cards, MS Team",94
+8509574,75,67,Churned,75,2,30,1,Jira,19
+5757671,42,57,Paying,105,71,43,0,,15
+6671275,116,23,Paying,290,48,19,1,Slack,96
+1252379,166,33,Paying,83,40,24,1,Zapier,79
+2607490,20,60,Paying,30,3,47,5,"Jira, Google, Slack, Zapier, Dropbox",92
+3905049,138,15,Paying,276,245,12,5,"Jira, Google, Slack, Zapier, Dropbox",84
+5686163,132,2,Churned,132,61,2,2,"Jira, Slack",26
+5693529,1,0,Churned,0,0,0,0,,4
+1473600,378,62,Churned,0,0,36,5,"Google, Slack, Zapier, Azure Cards, MS Team",41
+6431279,93,6,Churned,93,1,4,2,"Jira, Zapier",47
+5763743,22,28,Paying,22,8,23,3,"Dropbox, Slack, Google",65
+3743776,166,14,Paying,415,253,13,4,"Google, Jira, Slack, Dropbox",88
+5877241,90,12,Paying,180,153,9,0,,0
+4341565,173,60,Churned,173,19,26,3,"Dropbox, Slack, Google",47
+4422224,18,10,Paying,27,22,8,1,Slack,98
+8740072,37,6,Paying,55,29,2,4,"Google, Jira, Slack, Dropbox",51
+2397804,48,39,Paying,120,4,32,5,"Jira, Google, Slack, Zapier, Dropbox",36
+3443586,120,18,Churned,0,0,5,1,Dropbox,27
+1476955,193,61,Churned,193,179,41,5,"Jira, Google, Slack, Zapier, Dropbox",96
+6061162,63,51,Paying,31,3,42,3,"Dropbox, Slack, Google",22
+7590014,7,4,Churned,10,0,2,3,"Jira, Slack, Zapier",57
+7099005,37,59,Churned,55,15,36,5,"Jira, Google, Slack, Zapier, Dropbox",19
+2527654,44,44,Paying,66,32,36,4,"Slack, Zapier, MS Team, Azure Cards",56
+2399249,28,14,Churned,28,8,6,3,"Jira, Slack, Zapier",76
+5076110,40,12,Paying,60,33,7,3,"Jira, Slack, Zapier",49
+1342982,212,1,Paying,530,494,0,1,MS Team,15
+8049834,36,74,Churned,18,14,43,3,"Dropbox, Slack, Google",15
+8805036,100,17,Paying,150,13,17,2,"MS Team, Azure Cards",48
+8762903,272,56,Paying,408,271,44,4,"Slack, Zapier, MS Team, Azure Cards",71
+3259207,228,27,Paying,228,92,22,3,"Jira, Slack, Zapier",15
+5362670,6,51,Churned,3,0,28,5,"Google, Slack, Zapier, Azure Cards, MS Team",91
+2112234,121,19,Paying,121,66,15,0,,95
+1553074,31,58,Churned,46,30,20,5,"Jira, Google, Slack, Zapier, Dropbox",19
+5283566,81,10,Churned,0,0,9,1,Zapier,33
+5384086,395,52,Churned,395,172,28,5,"Jira, Google, Slack, Zapier, Dropbox",86
+5779441,147,24,Paying,220,34,21,0,,50
+7315517,7,0,Churned,7,4,0,4,"Google, Jira, Slack, Dropbox",98
+5929173,108,4,Churned,54,34,0,4,"Google, Jira, Slack, Dropbox",91
+6453069,70,53,Churned,35,8,24,4,"Google, Jira, Slack, Dropbox",63
+5748060,186,1,Paying,279,162,0,4,"Google, Jira, Slack, Dropbox",43
+7662403,281,1,Churned,0,0,1,4,"Slack, Zapier, MS Team, Azure Cards",72
+2227311,124,7,Churned,62,41,7,5,"Google, Slack, Zapier, Azure Cards, MS Team",45
+6868357,102,71,Churned,51,39,33,1,Slack,53
+4373079,20,59,Paying,10,5,45,0,,4
+5329919,54,75,Churned,0,0,40,2,"Jira, Zapier",44
+3438865,177,7,Paying,265,215,6,1,Azure Cards,78
+1071397,30,45,Paying,15,6,34,1,Jira,52
+2612616,263,36,Paying,263,138,31,1,MS Team,24
+2493772,33,23,Paying,33,18,21,3,"MS Team, Azure Cards, Dropbox",44
+1986346,5,37,Paying,10,3,30,2,"MS Team, Azure Cards",48
+1765237,7,26,Paying,17,16,22,4,"Google, Jira, Slack, Dropbox",98
+1430247,25,67,Churned,12,5,34,0,,52
+4511608,305,56,Churned,152,82,29,4,"Google, Jira, Slack, Dropbox",75
+5323463,33,57,Paying,66,24,46,3,"MS Team, Azure Cards, Dropbox",41
+1365732,262,43,Paying,131,56,32,1,MS Team,71
+8884677,156,3,Churned,0,0,3,1,Zapier,80
+4743099,40,47,Paying,100,97,35,5,"Jira, Google, Slack, Zapier, Dropbox",60
+2745579,11,53,Paying,22,19,42,2,"Jira, Slack",86
+1594909,87,51,Paying,130,44,40,5,"Google, Slack, Zapier, Azure Cards, MS Team",53
+4121306,24,64,Churned,12,5,30,4,"Google, Jira, Slack, Dropbox",8
+8204383,60,30,Paying,30,19,25,3,"MS Team, Azure Cards, Dropbox",6
+6130444,112,34,Paying,224,137,26,4,"Slack, Zapier, MS Team, Azure Cards",95
+4884954,128,19,Paying,320,114,12,0,,34
+1922268,16,55,Paying,32,11,42,0,,0
+1490694,148,2,Paying,222,16,0,1,Jira,71
+6558985,67,71,Churned,67,38,37,2,"MS Team, Azure Cards",68
+3099198,28,2,Churned,14,12,2,2,"Jira, Zapier",61
+3647241,37,53,Paying,37,34,37,4,"Slack, Zapier, MS Team, Azure Cards",63
+8871084,251,48,Paying,376,83,39,3,"Dropbox, Slack, Google",55
+3895949,87,52,Paying,217,11,39,2,"Jira, Zapier",62
+7315670,75,50,Churned,112,88,24,3,"Dropbox, Slack, Google",96
+8688072,9,67,Churned,0,0,32,2,"Jira, Slack",82
+2759437,156,11,Paying,312,69,7,0,,26
+2498817,198,68,Churned,198,133,29,5,"Jira, Google, Slack, Zapier, Dropbox",1
+8549815,206,16,Paying,309,84,11,0,,26
+3392771,28,6,Churned,14,8,6,4,"Google, Jira, Slack, Dropbox",3
+4330755,122,24,Paying,122,70,17,2,"MS Team, Azure Cards",65
+5258288,147,54,Paying,294,171,42,5,"Google, Slack, Zapier, Azure Cards, MS Team",27
+5002611,81,0,Churned,121,94,0,0,,51
+1195238,169,9,Churned,169,77,9,2,"Jira, Slack",39
+7995757,186,64,Churned,186,122,31,1,Dropbox,30
+3799908,98,40,Paying,147,86,33,0,,53
+7629659,53,6,Paying,26,13,6,1,MS Team,10
+4168074,193,11,Paying,193,46,9,0,,56
+4425011,225,28,Paying,225,224,21,5,"Jira, Google, Slack, Zapier, Dropbox",65
+4264081,28,8,Churned,14,0,1,0,,26
+1481767,90,63,Churned,45,33,30,4,"Slack, Zapier, MS Team, Azure Cards",98
+3248168,47,9,Churned,70,12,8,5,"Google, Slack, Zapier, Azure Cards, MS Team",54
+4254296,101,16,Paying,101,80,11,0,,83
+5993239,33,14,Churned,16,9,2,1,Slack,29
+3395875,299,36,Paying,448,308,25,5,"Google, Slack, Zapier, Azure Cards, MS Team",36
+6351280,33,35,Paying,16,11,29,2,"MS Team, Azure Cards",80
+6418449,142,56,Paying,71,67,43,5,"Jira, Google, Slack, Zapier, Dropbox",62
+3977135,131,59,Churned,65,20,22,4,"Slack, Zapier, MS Team, Azure Cards",13
+3939685,151,25,Paying,226,225,21,1,Slack,98
+6401266,229,30,Paying,458,126,24,5,"Jira, Google, Slack, Zapier, Dropbox",58
+3923992,61,47,Paying,30,8,37,3,"Jira, Slack, Zapier",89
+4903139,289,31,Paying,433,308,23,2,"Jira, Slack",10
+3643460,89,42,Paying,89,1,32,2,"Jira, Zapier",4
+5799678,97,11,Churned,97,60,3,0,,69
+8432335,50,1,Paying,25,14,0,0,,65
+1269489,248,11,Churned,124,30,7,0,,7
+2446840,60,1,Churned,30,16,1,3,"MS Team, Azure Cards, Dropbox",70
+6803245,259,34,Paying,259,86,30,0,,61
+8469793,24,48,Paying,48,22,38,0,,47
+5517319,64,54,Paying,160,130,43,2,"MS Team, Azure Cards",57
+2031158,111,34,Paying,55,5,27,1,Jira,39
+7449653,188,28,Churned,94,45,10,3,"Jira, Slack, Zapier",41
+8276143,60,16,Churned,0,0,4,2,"MS Team, Azure Cards",98
+5878446,19,54,Paying,19,0,42,0,,89
+7033602,226,3,Churned,0,0,2,4,"Google, Jira, Slack, Dropbox",99
+5198402,22,32,Churned,0,0,29,0,,70
+5126614,2,56,Paying,1,0,39,5,"Google, Slack, Zapier, Azure Cards, MS Team",90
+5522428,67,73,Churned,100,82,25,2,"MS Team, Azure Cards",42
+5935423,84,58,Paying,168,146,45,0,,16
+6876882,25,3,Churned,0,0,3,0,,1
+2845154,21,59,Churned,31,3,29,1,MS Team,70
+4407602,40,51,Paying,100,11,39,3,"MS Team, Azure Cards, Dropbox",26
+5718058,54,53,Paying,81,39,39,0,,44
+7846575,40,31,Paying,100,23,23,0,,56
+7054312,100,43,Paying,50,47,32,0,,95
+8607711,115,50,Churned,172,160,29,3,"MS Team, Azure Cards, Dropbox",78
+7282879,143,52,Churned,0,0,24,3,"Jira, Slack, Zapier",18
+3968571,137,50,Churned,137,33,25,3,"Jira, Slack, Zapier",10
+5627751,93,24,Paying,93,55,20,0,,60
+2583555,244,72,Churned,244,187,39,2,"MS Team, Azure Cards",91
+8685788,28,53,Paying,42,37,46,3,"MS Team, Azure Cards, Dropbox",22
+8136558,10,30,Paying,20,17,20,3,"Jira, Slack, Zapier",0
+7049752,245,54,Churned,0,0,27,3,"Dropbox, Slack, Google",63
+3037147,115,4,Churned,57,21,4,0,,78
+3575803,29,12,Churned,14,2,2,5,"Jira, Google, Slack, Zapier, Dropbox",0
+1096223,22,26,Churned,0,0,15,4,"Google, Jira, Slack, Dropbox",49
+4548339,251,1,Churned,125,109,1,5,"Jira, Google, Slack, Zapier, Dropbox",99
+8664188,114,5,Paying,57,39,5,4,"Slack, Zapier, MS Team, Azure Cards",94
+2969884,16,58,Churned,16,4,29,0,,18
+2840425,38,55,Paying,38,9,43,3,"Jira, Slack, Zapier",10
+3775490,172,74,Churned,172,19,29,5,"Jira, Google, Slack, Zapier, Dropbox",11
+3009438,217,6,Paying,108,55,6,1,Jira,29
+1683096,243,48,Paying,364,222,38,3,"Dropbox, Slack, Google",72
+7937240,38,11,Paying,57,32,9,3,"Jira, Slack, Zapier",5
+1824286,238,47,Paying,357,30,39,3,"MS Team, Azure Cards, Dropbox",84
+3058101,5,36,Paying,7,6,31,0,,61
+4200754,14,39,Paying,28,22,29,0,,50
+7737727,71,60,Paying,177,147,44,4,"Slack, Zapier, MS Team, Azure Cards",45
+8623507,86,68,Churned,43,10,46,4,"Google, Jira, Slack, Dropbox",36
+2220126,119,31,Paying,178,3,21,1,Slack,94
+2191867,58,41,Paying,87,68,32,1,Jira,25
+1743745,6,24,Paying,15,4,16,4,"Google, Jira, Slack, Dropbox",39
+2967049,43,2,Churned,43,15,2,3,"Dropbox, Slack, Google",71
+3490869,24,42,Paying,12,9,35,4,"Slack, Zapier, MS Team, Azure Cards",92
+6082495,341,31,Churned,341,249,10,3,"MS Team, Azure Cards, Dropbox",35
+6979952,199,56,Paying,99,97,44,3,"Jira, Slack, Zapier",69
+3942452,87,20,Churned,87,79,4,5,"Jira, Google, Slack, Zapier, Dropbox",51
+6160573,139,16,Paying,278,48,14,0,,93
+4764083,31,70,Churned,46,19,41,3,"Dropbox, Slack, Google",24
+3116282,83,57,Churned,124,67,30,2,"MS Team, Azure Cards",99
+3101313,28,1,Churned,42,31,0,5,"Google, Slack, Zapier, Azure Cards, MS Team",86
+4025218,187,28,Paying,93,76,20,2,"MS Team, Azure Cards",58
+8208997,259,33,Paying,518,461,23,1,Azure Cards,65
+3889530,34,75,Churned,34,0,42,1,Jira,62
+7933223,19,54,Churned,28,24,34,4,"Slack, Zapier, MS Team, Azure Cards",49
+6846511,86,43,Paying,86,85,35,1,Zapier,44
+3458049,1,1,Churned,1,0,1,3,"MS Team, Azure Cards, Dropbox",60
+6960958,140,34,Paying,210,3,26,5,"Google, Slack, Zapier, Azure Cards, MS Team",73
+6503321,59,1,Churned,88,21,1,0,,78
+4146715,8,15,Paying,16,11,10,4,"Slack, Zapier, MS Team, Azure Cards",55
+2627434,95,0,Churned,47,42,0,5,"Google, Slack, Zapier, Azure Cards, MS Team",34
+1660403,82,70,Churned,123,16,40,2,"MS Team, Azure Cards",55
+2394834,113,61,Churned,0,0,33,2,"Jira, Slack",90
+6471836,225,45,Paying,562,15,37,3,"MS Team, Azure Cards, Dropbox",96
+2608653,91,8,Churned,91,54,2,0,,19
+8914425,98,1,Churned,0,0,1,1,Slack,5
+7853165,99,19,Paying,99,47,18,4,"Google, Jira, Slack, Dropbox",41
+2514884,18,51,Churned,18,5,24,0,,35
+6873351,104,53,Churned,0,0,22,5,"Google, Slack, Zapier, Azure Cards, MS Team",54
+3744649,331,64,Churned,0,0,30,2,"MS Team, Azure Cards",10
+4081819,183,18,Paying,274,70,15,5,"Jira, Google, Slack, Zapier, Dropbox",59
+8295877,14,22,Paying,21,7,18,0,,0
+5060220,233,0,Churned,116,96,0,2,"Jira, Zapier",66
+8928485,32,54,Churned,32,2,23,0,,99
+3293902,50,25,Paying,125,40,20,3,"Dropbox, Slack, Google",39
+2338658,4,11,Churned,4,0,11,5,"Jira, Google, Slack, Zapier, Dropbox",1
+5457522,83,31,Paying,166,146,26,0,,20
+8689347,252,52,Paying,252,141,42,2,"MS Team, Azure Cards",47
+7370958,82,50,Churned,0,0,32,1,MS Team,86
+7939217,234,17,Churned,0,0,6,4,"Google, Jira, Slack, Dropbox",19
+4743767,46,17,Paying,115,94,13,1,MS Team,37
+1591229,98,42,Paying,98,4,32,0,,62
+7852663,100,8,Churned,50,26,8,1,Azure Cards,45
+1113105,63,3,Churned,94,40,3,2,"MS Team, Azure Cards",35
+4511232,267,2,Churned,0,0,2,1,Zapier,44
+1604768,107,21,Paying,267,102,16,0,,31
+6024434,135,19,Paying,270,138,15,3,"MS Team, Azure Cards, Dropbox",75
+2994064,51,11,Churned,0,0,3,2,"Jira, Slack",22
+2269088,48,37,Paying,48,2,28,1,Jira,50
+4978476,11,15,Churned,16,6,12,5,"Jira, Google, Slack, Zapier, Dropbox",42
+2741090,29,4,Paying,29,0,2,2,"Jira, Slack",44
+4294011,48,68,Churned,48,42,27,0,,19
+8006096,10,20,Churned,15,3,16,1,MS Team,26
+8604999,163,17,Paying,244,152,13,2,"Jira, Slack",25
+5787290,26,19,Paying,65,1,14,5,"Jira, Google, Slack, Zapier, Dropbox",56
+8265860,249,75,Churned,249,152,40,1,Jira,48
+7548395,226,4,Churned,0,0,0,5,"Google, Slack, Zapier, Azure Cards, MS Team",69
+7875956,305,57,Churned,0,0,24,1,Google,1
+2036931,208,74,Churned,104,69,34,1,Jira,95
+7339501,34,24,Paying,51,31,17,5,"Google, Slack, Zapier, Azure Cards, MS Team",84
+4771589,62,62,Churned,31,2,31,5,"Jira, Google, Slack, Zapier, Dropbox",79
+1717555,17,70,Churned,25,5,40,0,,74
+5717889,174,23,Churned,261,121,7,2,"Jira, Zapier",89
+5077554,32,54,Paying,32,10,39,2,"Jira, Slack",96
+7656803,32,1,Paying,16,6,1,0,,10
+7856293,3,69,Churned,1,0,31,1,MS Team,67
+6696093,181,67,Churned,181,96,30,3,"Jira, Slack, Zapier",34
+4920850,8,59,Paying,20,17,43,5,"Jira, Google, Slack, Zapier, Dropbox",23
+6421850,114,5,Churned,57,14,1,0,,21
+2304365,229,14,Churned,229,203,8,4,"Google, Jira, Slack, Dropbox",25
+6339491,154,50,Churned,231,82,29,3,"MS Team, Azure Cards, Dropbox",25
+8146001,37,11,Paying,92,62,7,4,"Slack, Zapier, MS Team, Azure Cards",57
+7436693,95,49,Paying,237,41,37,1,Jira,96
+3539649,120,73,Churned,60,44,36,4,"Google, Jira, Slack, Dropbox",88
+7699374,30,1,Paying,75,5,1,5,"Jira, Google, Slack, Zapier, Dropbox",98
+3079772,98,22,Paying,245,100,22,3,"Jira, Slack, Zapier",35
+2988494,5,8,Churned,7,0,2,4,"Google, Jira, Slack, Dropbox",46
+5264788,35,68,Churned,52,32,32,5,"Jira, Google, Slack, Zapier, Dropbox",38
+4878509,80,45,Paying,200,93,33,0,,70
+8836227,186,69,Churned,279,278,28,5,"Jira, Google, Slack, Zapier, Dropbox",48
+7819366,135,23,Churned,67,23,10,1,Google,3
+4732937,99,2,Paying,99,12,0,0,,97
+1068806,291,61,Churned,145,23,32,0,,40
+5674922,26,20,Churned,13,5,9,0,,9
+3012898,179,64,Churned,179,133,37,4,"Slack, Zapier, MS Team, Azure Cards",47
+6411990,32,8,Churned,48,6,3,4,"Slack, Zapier, MS Team, Azure Cards",20
+2083324,131,58,Churned,0,0,30,5,"Google, Slack, Zapier, Azure Cards, MS Team",24
+2687422,108,53,Churned,0,0,34,3,"Dropbox, Slack, Google",86
+8152898,209,59,Churned,104,39,29,2,"Jira, Zapier",36
+2373366,58,67,Churned,29,0,34,0,,60
+8366473,90,69,Churned,45,22,30,2,"Jira, Zapier",65
+1028579,165,24,Paying,247,239,17,5,"Jira, Google, Slack, Zapier, Dropbox",15
+6557219,126,62,Churned,0,0,25,0,,60
+2455438,51,7,Churned,25,24,3,2,"Jira, Slack",15
+7462643,272,55,Churned,136,30,33,5,"Jira, Google, Slack, Zapier, Dropbox",41
+2410836,82,50,Churned,41,0,24,5,"Jira, Google, Slack, Zapier, Dropbox",76
+4921197,81,49,Paying,40,32,41,1,Google,9
+4924036,155,5,Churned,0,0,1,0,,50
+1003454,249,58,Churned,373,365,22,5,"Jira, Google, Slack, Zapier, Dropbox",14
+1858514,44,2,Paying,22,7,1,5,"Google, Slack, Zapier, Azure Cards, MS Team",40
+5668287,108,28,Paying,216,180,21,1,Dropbox,49
+6580232,19,73,Churned,19,6,40,2,"MS Team, Azure Cards",15
+8203913,57,13,Churned,57,44,12,5,"Jira, Google, Slack, Zapier, Dropbox",45
+5184432,112,6,Churned,56,0,2,5,"Jira, Google, Slack, Zapier, Dropbox",48
+2861004,29,42,Paying,43,33,35,4,"Google, Jira, Slack, Dropbox",73
+6103306,327,75,Churned,0,0,33,0,,51
+6272708,66,32,Churned,0,0,15,2,"MS Team, Azure Cards",16
+7372945,116,75,Churned,116,43,33,5,"Jira, Google, Slack, Zapier, Dropbox",95
+8090484,117,0,Churned,175,90,0,2,"Jira, Slack",95
+4528853,31,28,Paying,31,7,24,4,"Slack, Zapier, MS Team, Azure Cards",2
+3939313,26,55,Churned,39,12,32,3,"MS Team, Azure Cards, Dropbox",80
+1460833,37,44,Paying,92,84,37,4,"Slack, Zapier, MS Team, Azure Cards",49
+7831024,2,53,Paying,5,0,44,2,"Jira, Slack",67
+3858666,92,20,Paying,230,46,12,1,Jira,57
+4645702,126,0,Churned,189,52,0,5,"Jira, Google, Slack, Zapier, Dropbox",95
+3357284,77,6,Churned,0,0,2,5,"Google, Slack, Zapier, Azure Cards, MS Team",62
+8588020,16,40,Paying,24,4,30,1,Jira,78
+5994793,219,18,Paying,328,48,14,0,,22
+2810849,157,16,Paying,314,110,14,0,,87
+6704931,19,61,Churned,9,6,30,2,"Jira, Slack",28
+6229717,207,4,Churned,0,0,3,5,"Jira, Google, Slack, Zapier, Dropbox",54
+5614834,32,68,Churned,32,19,30,5,"Jira, Google, Slack, Zapier, Dropbox",17
+3647428,45,3,Churned,0,0,3,0,,72
+6657827,24,30,Paying,12,4,22,5,"Google, Slack, Zapier, Azure Cards, MS Team",48
+1031683,195,34,Paying,487,459,28,2,"Jira, Slack",97
+5276090,43,56,Churned,0,0,24,2,"Jira, Zapier",7
+8783435,23,61,Churned,11,7,31,0,,37
+3770960,131,58,Churned,196,9,28,5,"Google, Slack, Zapier, Azure Cards, MS Team",18
+8767006,233,24,Paying,116,6,21,4,"Google, Jira, Slack, Dropbox",23
+2236073,101,68,Churned,0,0,36,5,"Jira, Google, Slack, Zapier, Dropbox",46
+2790489,110,46,Paying,165,75,34,1,Zapier,87
+2281362,260,51,Paying,520,129,43,1,MS Team,53
+6262051,232,48,Paying,348,219,39,0,,92
+1719953,272,1,Churned,272,1,1,3,"MS Team, Azure Cards, Dropbox",14
+5381043,7,46,Paying,3,0,37,1,Slack,51
+4283168,38,9,Churned,0,0,1,3,"Jira, Slack, Zapier",60
+4112935,102,51,Paying,102,64,40,0,,16
+4943860,47,73,Churned,23,7,30,4,"Google, Jira, Slack, Dropbox",67
+7836558,51,1,Paying,102,84,1,5,"Jira, Google, Slack, Zapier, Dropbox",78
+6823096,134,7,Churned,134,32,1,0,,54
+2534422,14,23,Churned,21,10,16,3,"MS Team, Azure Cards, Dropbox",71
+5517929,109,12,Paying,54,20,7,1,Dropbox,32
+2767513,84,25,Paying,84,36,20,1,Zapier,61
+1877743,176,2,Churned,176,128,2,4,"Google, Jira, Slack, Dropbox",20
+2967778,103,23,Paying,103,63,18,5,"Jira, Google, Slack, Zapier, Dropbox",1
+2507777,4,8,Paying,10,0,8,3,"Jira, Slack, Zapier",69
+2526723,61,49,Paying,61,55,37,1,Jira,38
+8026000,2,16,Churned,1,0,8,2,"Jira, Slack",55
+6177684,24,1,Churned,0,0,1,4,"Google, Jira, Slack, Dropbox",8
+6873335,219,53,Churned,328,308,19,3,"Dropbox, Slack, Google",25
+8631877,28,41,Paying,14,6,31,5,"Jira, Google, Slack, Zapier, Dropbox",25
+6668971,161,8,Paying,322,80,7,4,"Google, Jira, Slack, Dropbox",14
+2954988,15,13,Paying,37,3,8,5,"Google, Slack, Zapier, Azure Cards, MS Team",28
+4495348,61,10,Paying,30,15,6,4,"Slack, Zapier, MS Team, Azure Cards",31
+3616191,264,48,Paying,264,80,38,5,"Jira, Google, Slack, Zapier, Dropbox",34
+2753070,80,5,Churned,80,56,5,2,"Jira, Zapier",53
+7847997,28,60,Paying,14,10,49,2,"Jira, Slack",0
+2691132,159,56,Churned,159,142,16,1,Zapier,36
+6250638,54,62,Churned,54,9,34,0,,71
+2036818,194,15,Churned,291,288,4,3,"Jira, Slack, Zapier",27
+8416490,7,59,Churned,0,0,26,2,"MS Team, Azure Cards",81
+7455341,151,16,Churned,151,16,1,0,,42
+5439833,135,0,Churned,135,31,0,0,,11
+3849931,217,3,Churned,108,60,3,4,"Google, Jira, Slack, Dropbox",71
+2435295,193,63,Churned,96,86,37,1,Google,49
+7476203,191,33,Paying,95,33,25,1,Google,83
+1313300,104,58,Paying,156,80,47,5,"Jira, Google, Slack, Zapier, Dropbox",9
+5165064,157,73,Churned,78,48,33,5,"Jira, Google, Slack, Zapier, Dropbox",17
+4582861,38,60,Paying,38,18,48,0,,12
+8543433,17,51,Paying,42,18,39,1,MS Team,64
+7187233,129,58,Churned,0,0,29,0,,92
+4452184,14,10,Churned,14,3,10,3,"MS Team, Azure Cards, Dropbox",35
+6273168,15,54,Churned,0,0,21,0,,12
+3116162,73,74,Churned,109,0,41,4,"Slack, Zapier, MS Team, Azure Cards",36
+6047887,234,5,Churned,117,93,4,5,"Jira, Google, Slack, Zapier, Dropbox",97
+1966722,72,25,Paying,72,71,19,5,"Google, Slack, Zapier, Azure Cards, MS Team",69
+3092027,55,3,Churned,82,15,1,2,"Jira, Slack",66
+7211481,49,49,Paying,98,74,37,1,MS Team,4
+3544400,4,33,Paying,10,3,27,0,,73
+2657666,237,5,Churned,237,185,3,3,"Jira, Slack, Zapier",28
+5227536,36,5,Churned,18,6,5,2,"Jira, Slack",79
+8261465,17,62,Churned,8,3,25,4,"Google, Jira, Slack, Dropbox",14
+3144630,27,10,Paying,54,36,6,4,"Slack, Zapier, MS Team, Azure Cards",56
+4122226,95,7,Paying,47,31,6,3,"Dropbox, Slack, Google",72
+3491483,84,51,Churned,42,28,21,3,"Dropbox, Slack, Google",44
+4210404,12,69,Churned,6,2,28,4,"Slack, Zapier, MS Team, Azure Cards",23
+5310092,271,55,Paying,542,31,45,4,"Slack, Zapier, MS Team, Azure Cards",10
+4570639,37,53,Churned,0,0,23,2,"MS Team, Azure Cards",64
+5373868,35,0,Churned,35,18,0,3,"Dropbox, Slack, Google",2
+8344725,20,70,Churned,0,0,30,0,,42
+3827644,24,28,Paying,48,11,24,1,Jira,34
+7111255,49,36,Paying,98,50,30,5,"Google, Slack, Zapier, Azure Cards, MS Team",89
+4669105,291,72,Churned,436,237,35,3,"Dropbox, Slack, Google",3
+1966343,13,26,Paying,19,10,21,5,"Jira, Google, Slack, Zapier, Dropbox",91
+8400975,86,55,Churned,43,8,33,4,"Google, Jira, Slack, Dropbox",61
+1113294,77,16,Paying,77,18,12,1,Zapier,29
+6237067,197,47,Paying,98,66,37,3,"Dropbox, Slack, Google",93
+2915289,95,47,Paying,142,47,37,0,,90
+1724108,69,20,Paying,69,42,12,2,"MS Team, Azure Cards",5
+1919687,48,49,Paying,72,0,37,0,,70
+5662062,94,30,Paying,94,89,23,1,Jira,88
+6988435,36,13,Paying,72,42,9,4,"Slack, Zapier, MS Team, Azure Cards",51
+1603657,117,56,Churned,117,43,33,3,"MS Team, Azure Cards, Dropbox",68
+3614332,275,3,Churned,0,0,1,3,"Jira, Slack, Zapier",25
+1640382,95,8,Churned,95,93,0,3,"MS Team, Azure Cards, Dropbox",51
+7425109,15,30,Paying,37,21,27,0,,100
+1477939,121,6,Churned,60,54,5,2,"Jira, Slack",87
+1784769,60,6,Paying,90,29,2,2,"Jira, Slack",78
+2943845,46,3,Paying,115,80,2,1,Zapier,84
+8963442,8,52,Paying,12,1,38,1,MS Team,35
+7536668,43,33,Paying,86,55,28,0,,88
+3924152,78,1,Paying,156,33,0,1,Slack,93
+6837450,12,4,Churned,12,4,4,3,"MS Team, Azure Cards, Dropbox",0
+6039024,295,51,Paying,590,63,39,1,MS Team,38
+6794835,54,53,Paying,108,18,41,1,Slack,10
+5450863,41,56,Churned,41,1,33,0,,44
+2158717,9,4,Churned,13,5,4,3,"Dropbox, Slack, Google",58
+5762923,23,3,Paying,46,26,2,5,"Jira, Google, Slack, Zapier, Dropbox",74
+2377955,50,22,Paying,125,124,18,0,,48
+5555317,92,62,Churned,92,15,27,0,,55
+1809020,120,45,Paying,60,37,35,5,"Google, Slack, Zapier, Azure Cards, MS Team",69
+8479205,272,4,Paying,680,249,4,0,,72
+1782065,296,2,Churned,296,16,2,1,MS Team,57
+1055780,195,23,Paying,390,36,18,2,"Jira, Zapier",88
+2161849,288,5,Churned,0,0,5,2,"MS Team, Azure Cards",16
+5983681,42,7,Churned,42,20,6,0,,16
+5998494,12,17,Churned,6,5,16,0,,19
+4056056,20,42,Paying,10,9,36,0,,18
+4928483,107,11,Paying,107,18,8,2,"Jira, Zapier",24
+1849202,62,40,Paying,155,150,28,1,Zapier,98
+2409750,128,22,Paying,128,26,16,0,,73
+6970716,36,15,Churned,36,3,12,0,,21
+7191774,69,15,Paying,138,122,14,0,,55
+8343835,221,49,Paying,221,187,37,1,Slack,52
+2800938,78,35,Paying,78,43,26,3,"MS Team, Azure Cards, Dropbox",57
+5148129,61,52,Churned,0,0,28,5,"Google, Slack, Zapier, Azure Cards, MS Team",78
+3205526,333,8,Churned,0,0,2,5,"Google, Slack, Zapier, Azure Cards, MS Team",34
+2728901,245,27,Paying,490,459,21,1,Zapier,48
+4219581,138,8,Paying,345,344,4,3,"MS Team, Azure Cards, Dropbox",67
+4501584,16,71,Churned,8,1,41,5,"Jira, Google, Slack, Zapier, Dropbox",16
+5402128,19,56,Paying,38,15,44,1,Jira,93
+7345944,234,65,Churned,234,111,35,4,"Slack, Zapier, MS Team, Azure Cards",18
+5533342,34,59,Paying,68,12,47,1,Jira,8
+1507956,23,11,Churned,34,15,4,3,"MS Team, Azure Cards, Dropbox",15
+3288716,128,24,Paying,256,14,23,3,"Dropbox, Slack, Google",90
+8617333,196,1,Paying,294,269,1,4,"Slack, Zapier, MS Team, Azure Cards",99
+4125979,165,10,Churned,0,0,10,3,"Dropbox, Slack, Google",93
+5700271,121,35,Churned,60,10,13,2,"Jira, Slack",2
+3025216,74,12,Paying,74,1,9,1,MS Team,93
+6554199,49,5,Paying,73,33,2,2,"Jira, Zapier",81
+6493208,1,32,Paying,1,0,26,1,Zapier,75
+7924408,52,59,Churned,0,0,34,3,"Dropbox, Slack, Google",91
+6532925,245,28,Paying,612,76,22,0,,75
+2668115,63,1,Paying,94,30,0,1,Slack,63
+1334670,171,10,Paying,171,42,5,2,"MS Team, Azure Cards",33
+1095446,321,7,Churned,481,290,2,4,"Google, Jira, Slack, Dropbox",99
+8214084,246,43,Paying,369,344,34,4,"Slack, Zapier, MS Team, Azure Cards",79
+6784546,188,19,Churned,94,90,8,3,"Jira, Slack, Zapier",4
+3448115,89,65,Churned,44,8,30,4,"Slack, Zapier, MS Team, Azure Cards",48
+5690477,41,55,Paying,82,1,41,4,"Google, Jira, Slack, Dropbox",44
+4133581,50,70,Churned,75,4,38,2,"Jira, Slack",85
+6078698,42,13,Paying,63,21,10,4,"Slack, Zapier, MS Team, Azure Cards",40
+4336310,173,74,Churned,86,56,36,5,"Jira, Google, Slack, Zapier, Dropbox",64
+5229177,131,11,Paying,327,118,7,3,"Dropbox, Slack, Google",40
+8113281,53,6,Churned,0,0,6,2,"Jira, Zapier",38
+4886957,3,62,Churned,3,1,24,1,Google,72
+7796998,234,58,Paying,351,195,44,3,"Dropbox, Slack, Google",82
+7990265,11,3,Churned,5,2,0,1,Slack,27
+3471134,96,1,Churned,48,21,1,0,,0
+7186465,356,14,Churned,356,80,11,5,"Jira, Google, Slack, Zapier, Dropbox",81
+7374275,21,25,Paying,31,25,19,0,,86
+3239813,36,3,Churned,18,8,3,5,"Google, Slack, Zapier, Azure Cards, MS Team",18
+3720099,19,18,Paying,38,1,10,5,"Jira, Google, Slack, Zapier, Dropbox",42
+2661616,65,63,Churned,97,27,22,0,,37
+3344439,326,16,Churned,326,79,6,5,"Jira, Google, Slack, Zapier, Dropbox",78
+8793020,149,43,Paying,372,130,36,3,"Dropbox, Slack, Google",19
+6938697,38,60,Churned,38,7,30,0,,93
+2566129,13,37,Paying,13,12,30,0,,65
+8723556,54,50,Churned,0,0,25,4,"Google, Jira, Slack, Dropbox",69
+5395196,105,15,Paying,105,83,15,1,Azure Cards,41
+5342005,159,71,Churned,0,0,36,5,"Jira, Google, Slack, Zapier, Dropbox",10
+3153384,75,8,Churned,37,23,5,4,"Google, Jira, Slack, Dropbox",10
+7494961,8,28,Paying,8,4,23,1,Slack,30
+4827818,9,72,Churned,4,3,41,1,Jira,90
+1108755,45,52,Paying,45,28,40,1,Google,69
+3931209,23,19,Paying,57,34,12,5,"Jira, Google, Slack, Zapier, Dropbox",54
+3604162,1,72,Churned,0,0,36,0,,100
+1399504,39,49,Paying,97,15,41,1,Jira,32
+5095966,23,50,Paying,11,10,38,5,"Jira, Google, Slack, Zapier, Dropbox",25
+8848143,26,36,Paying,65,59,27,4,"Slack, Zapier, MS Team, Azure Cards",83
+1688536,33,75,Churned,16,9,34,0,,90
+4710155,51,9,Churned,76,60,9,4,"Slack, Zapier, MS Team, Azure Cards",60
+2496571,255,67,Churned,255,124,33,3,"Dropbox, Slack, Google",30
+4062970,21,75,Churned,21,6,42,4,"Slack, Zapier, MS Team, Azure Cards",81
+6436383,4,46,Paying,2,0,36,5,"Google, Slack, Zapier, Azure Cards, MS Team",66
+2159948,149,38,Paying,223,182,32,4,"Google, Jira, Slack, Dropbox",12
+6458923,66,21,Paying,132,9,18,5,"Jira, Google, Slack, Zapier, Dropbox",64
+2562602,135,75,Churned,135,131,38,5,"Google, Slack, Zapier, Azure Cards, MS Team",19
+2801925,38,9,Paying,76,55,7,1,Azure Cards,100
+1520185,18,7,Paying,18,14,6,2,"MS Team, Azure Cards",50
+2830259,140,14,Churned,0,0,14,0,,49
+2512416,55,31,Paying,137,77,22,5,"Google, Slack, Zapier, Azure Cards, MS Team",19
+3950102,157,21,Paying,314,160,17,5,"Google, Slack, Zapier, Azure Cards, MS Team",86
+5989981,27,48,Paying,67,51,37,5,"Jira, Google, Slack, Zapier, Dropbox",77
+2703815,43,57,Churned,64,61,30,1,Google,85
+8024952,249,56,Churned,124,53,23,4,"Google, Jira, Slack, Dropbox",73
+7994628,119,10,Churned,0,0,0,2,"Jira, Zapier",21
+4079775,40,56,Churned,40,21,22,0,,28
+1196660,26,59,Churned,26,6,34,0,,39
+6465319,170,73,Churned,255,17,38,5,"Jira, Google, Slack, Zapier, Dropbox",26
+2171617,140,1,Churned,70,62,1,5,"Google, Slack, Zapier, Azure Cards, MS Team",87
+2116065,56,75,Churned,56,15,40,3,"Dropbox, Slack, Google",99
+3510663,284,58,Churned,142,118,30,3,"Jira, Slack, Zapier",74
+5773577,108,48,Paying,108,35,38,1,Azure Cards,22
+6517763,187,12,Paying,280,12,10,4,"Google, Jira, Slack, Dropbox",10
+6654652,90,10,Churned,135,39,9,1,Azure Cards,61
+6310268,19,70,Churned,28,24,39,4,"Slack, Zapier, MS Team, Azure Cards",35
+2261838,4,36,Paying,4,0,32,2,"MS Team, Azure Cards",36
+2736391,212,9,Churned,318,93,8,2,"Jira, Slack",87
+7729298,26,54,Paying,26,20,41,4,"Slack, Zapier, MS Team, Azure Cards",90
+6451174,191,17,Paying,286,185,15,0,,94
+6188860,124,28,Paying,310,67,24,5,"Jira, Google, Slack, Zapier, Dropbox",48
+8016221,179,64,Churned,179,136,31,5,"Jira, Google, Slack, Zapier, Dropbox",12
+8769193,292,1,Churned,292,228,1,3,"Jira, Slack, Zapier",54
+4983489,44,68,Churned,44,1,33,2,"Jira, Zapier",53
+8106513,37,57,Churned,37,12,22,5,"Google, Slack, Zapier, Azure Cards, MS Team",27
+2507202,42,59,Churned,21,18,27,2,"Jira, Slack",71
+1042431,7,51,Churned,10,7,22,3,"Dropbox, Slack, Google",60
+7374529,60,41,Paying,30,20,33,3,"Jira, Slack, Zapier",78
+3153524,9,6,Churned,13,12,4,4,"Slack, Zapier, MS Team, Azure Cards",18
+5611014,289,55,Churned,289,132,26,1,Azure Cards,23
+5645327,60,14,Churned,90,40,1,1,Slack,6
+4437837,90,38,Paying,135,34,28,3,"Jira, Slack, Zapier",99
+6724221,39,50,Churned,39,23,28,5,"Google, Slack, Zapier, Azure Cards, MS Team",8
+4056016,38,65,Churned,19,12,35,2,"MS Team, Azure Cards",37
+6237230,41,6,Paying,82,74,5,0,,39
+8033735,54,33,Paying,54,43,30,0,,12
+6489928,100,5,Paying,200,92,3,5,"Jira, Google, Slack, Zapier, Dropbox",9
+4703538,177,61,Churned,265,143,33,0,,59
+5327921,138,62,Churned,69,19,35,1,Azure Cards,16
+2678019,241,30,Paying,602,309,23,4,"Google, Jira, Slack, Dropbox",70
+6516009,265,25,Paying,530,456,19,4,"Google, Jira, Slack, Dropbox",1
+7405323,6,56,Paying,6,2,45,0,,76
+2972372,112,1,Churned,168,15,1,0,,17
+1680514,50,40,Paying,25,23,30,0,,20
+2178736,53,41,Paying,79,17,35,1,MS Team,17
+7113644,42,52,Churned,42,18,22,1,Jira,36
+6785810,278,53,Churned,278,255,30,0,,100
+8030948,69,11,Paying,103,50,5,1,Zapier,57
+3136400,45,41,Paying,45,41,35,2,"Jira, Zapier",64
+3640672,198,11,Churned,198,54,0,2,"MS Team, Azure Cards",50
+3777264,199,64,Churned,199,33,32,3,"Dropbox, Slack, Google",32
+5650250,95,2,Churned,95,14,2,4,"Google, Jira, Slack, Dropbox",93
+4263027,14,12,Churned,14,0,3,2,"Jira, Slack",99
+7765542,4,37,Paying,2,1,33,3,"Dropbox, Slack, Google",26
+5894178,170,5,Paying,255,88,5,1,Google,1
+8873141,70,12,Paying,70,39,7,0,,94
+5260392,92,58,Paying,184,156,47,1,MS Team,97
+1989531,9,21,Paying,22,4,14,1,Slack,24
+8428524,102,64,Churned,102,86,37,2,"Jira, Zapier",16
+2725686,138,52,Paying,207,29,40,2,"Jira, Slack",8
+6457626,348,67,Churned,174,144,37,1,Google,76
+3631224,27,51,Churned,0,0,42,0,,9
+3399950,122,29,Paying,183,138,23,1,Slack,87
+7814043,220,57,Paying,220,200,46,5,"Google, Slack, Zapier, Azure Cards, MS Team",75
+8600805,271,18,Churned,406,288,5,2,"Jira, Slack",29
+2549406,144,55,Churned,144,71,28,3,"Dropbox, Slack, Google",22
+2093201,43,22,Paying,64,30,16,3,"Dropbox, Slack, Google",94
+2881661,302,3,Churned,302,33,3,0,,34
+6369518,135,36,Paying,135,113,29,0,,86
+1831664,230,14,Paying,460,234,10,3,"Jira, Slack, Zapier",75
+7924039,30,72,Churned,30,5,38,5,"Google, Slack, Zapier, Azure Cards, MS Team",24
+4012208,12,50,Paying,30,17,40,5,"Google, Slack, Zapier, Azure Cards, MS Team",21
+4407717,62,71,Churned,31,19,35,1,Azure Cards,3
+3245601,216,61,Churned,324,192,32,3,"Jira, Slack, Zapier",41
+4088978,47,51,Churned,70,22,36,1,Slack,58
+3404631,198,40,Paying,99,69,33,4,"Slack, Zapier, MS Team, Azure Cards",62
+6134954,83,14,Churned,0,0,12,1,Google,83
+3376072,164,2,Churned,246,209,2,5,"Google, Slack, Zapier, Azure Cards, MS Team",34
+3742578,60,3,Churned,0,0,3,4,"Slack, Zapier, MS Team, Azure Cards",100
+7036891,48,57,Paying,48,29,47,3,"Dropbox, Slack, Google",49
+5706490,13,18,Paying,32,7,13,2,"Jira, Slack",43
+4602882,82,1,Paying,82,75,1,1,Slack,36
+4929803,36,24,Paying,54,40,22,2,"Jira, Zapier",62
+7018021,15,65,Churned,0,0,29,5,"Google, Slack, Zapier, Azure Cards, MS Team",9
+7793614,27,65,Churned,13,9,29,2,"Jira, Zapier",43
+6841209,25,72,Churned,12,6,46,2,"Jira, Zapier",98
+1353659,138,31,Paying,138,85,23,0,,82
+7474461,70,17,Churned,70,39,7,1,Google,80
+8244928,79,17,Paying,39,22,16,0,,24
+5440973,6,25,Paying,9,5,22,5,"Jira, Google, Slack, Zapier, Dropbox",54
+2340618,99,54,Churned,0,0,28,1,Google,91
+1052568,154,25,Churned,77,50,12,0,,26
+4708148,32,28,Paying,16,8,23,4,"Google, Jira, Slack, Dropbox",18
+4028671,42,57,Churned,21,19,34,3,"MS Team, Azure Cards, Dropbox",76
+2602389,206,43,Paying,412,249,32,4,"Google, Jira, Slack, Dropbox",75
+3824016,109,1,Paying,163,134,0,3,"Jira, Slack, Zapier",99
+3191538,76,13,Paying,190,3,10,3,"Jira, Slack, Zapier",84
+8343499,67,1,Churned,0,0,1,5,"Google, Slack, Zapier, Azure Cards, MS Team",37
+4492275,214,36,Paying,428,414,27,4,"Google, Jira, Slack, Dropbox",44
+3378920,249,50,Churned,124,77,19,4,"Google, Jira, Slack, Dropbox",5
+4343652,17,17,Paying,17,11,15,0,,42
+8312376,138,16,Paying,276,252,12,3,"Jira, Slack, Zapier",60
+2071371,22,64,Churned,0,0,38,1,Azure Cards,53
+2396820,95,46,Paying,237,59,37,1,MS Team,82
+5823196,133,1,Churned,133,46,1,0,,95
+1207722,101,1,Churned,101,24,1,5,"Jira, Google, Slack, Zapier, Dropbox",77
+5360822,154,65,Churned,0,0,22,2,"Jira, Slack",32
+4668809,204,1,Churned,0,0,1,5,"Google, Slack, Zapier, Azure Cards, MS Team",72
+8535422,242,34,Paying,242,160,27,3,"MS Team, Azure Cards, Dropbox",5
+8396140,23,17,Paying,23,8,14,5,"Jira, Google, Slack, Zapier, Dropbox",38
+3550616,147,59,Paying,220,10,50,3,"Dropbox, Slack, Google",69
+7592030,53,20,Paying,26,22,20,3,"Dropbox, Slack, Google",19
+6703244,182,44,Paying,182,57,34,5,"Jira, Google, Slack, Zapier, Dropbox",55
+7206656,47,21,Paying,47,38,16,0,,84
+3423094,35,56,Churned,0,0,33,1,Azure Cards,43
+4373474,18,69,Churned,18,1,38,0,,11
+1056928,165,2,Churned,247,98,2,2,"Jira, Slack",79
+2223353,63,14,Paying,94,38,9,0,,97
+2723853,82,5,Churned,41,18,4,2,"MS Team, Azure Cards",66
+3581329,8,2,Paying,4,3,1,4,"Google, Jira, Slack, Dropbox",24
+5415680,214,61,Churned,107,52,30,4,"Slack, Zapier, MS Team, Azure Cards",72
+8720573,157,10,Churned,157,135,8,2,"Jira, Slack",71
+7287665,49,55,Churned,24,7,20,1,Dropbox,18
+1045221,259,33,Paying,518,450,26,5,"Google, Slack, Zapier, Azure Cards, MS Team",78
+5490441,82,27,Paying,123,110,23,5,"Jira, Google, Slack, Zapier, Dropbox",28
+2696758,118,15,Churned,177,2,4,4,"Slack, Zapier, MS Team, Azure Cards",90
+3546220,153,66,Churned,229,225,40,5,"Jira, Google, Slack, Zapier, Dropbox",27
+4073204,218,21,Churned,0,0,3,0,,6
+7437726,187,55,Churned,0,0,35,0,,13
+1978807,110,13,Paying,275,45,12,1,Google,91
+6941647,111,11,Paying,55,54,9,2,"MS Team, Azure Cards",96
+3368355,33,42,Paying,49,42,32,1,Slack,91
+6909359,137,28,Paying,68,17,22,4,"Google, Jira, Slack, Dropbox",79
+4286749,138,1,Paying,207,44,0,2,"Jira, Slack",41
+8274209,250,51,Churned,125,106,24,5,"Google, Slack, Zapier, Azure Cards, MS Team",98
+6438292,290,60,Churned,145,4,19,5,"Jira, Google, Slack, Zapier, Dropbox",55
+6396958,62,0,Churned,62,37,0,4,"Slack, Zapier, MS Team, Azure Cards",41
+8630815,51,43,Paying,76,54,34,4,"Slack, Zapier, MS Team, Azure Cards",52
+6474414,79,46,Paying,39,3,33,4,"Google, Jira, Slack, Dropbox",33
+6538224,12,3,Churned,12,3,3,0,,31
+1630120,222,60,Churned,333,101,31,0,,42
+3329771,15,24,Paying,7,5,18,1,Azure Cards,44
+8935040,86,53,Churned,86,82,22,3,"MS Team, Azure Cards, Dropbox",8
+5175141,34,25,Churned,34,30,5,3,"MS Team, Azure Cards, Dropbox",96
+8290046,76,9,Churned,114,70,0,5,"Jira, Google, Slack, Zapier, Dropbox",7
+4369819,66,20,Churned,33,13,18,3,"MS Team, Azure Cards, Dropbox",42
+6872904,122,69,Churned,183,53,31,0,,11
+1599704,7,59,Paying,17,7,48,5,"Google, Slack, Zapier, Azure Cards, MS Team",85
+6386687,187,49,Paying,374,227,37,4,"Google, Jira, Slack, Dropbox",99
+4661592,70,50,Churned,105,2,25,4,"Google, Jira, Slack, Dropbox",49
+5505169,77,53,Paying,115,99,43,3,"Dropbox, Slack, Google",79
+8589173,31,37,Paying,46,45,27,1,Slack,88
+6047773,189,51,Paying,472,461,40,1,Dropbox,51
+4104630,97,3,Paying,194,157,3,3,"Dropbox, Slack, Google",41
+7109870,32,69,Churned,48,40,34,1,Azure Cards,31
+2335750,13,43,Paying,6,0,35,3,"Jira, Slack, Zapier",25
+3145381,100,4,Paying,100,6,2,4,"Google, Jira, Slack, Dropbox",83
+6864891,278,63,Churned,278,134,33,3,"Jira, Slack, Zapier",20
+2389919,33,14,Churned,49,25,8,2,"Jira, Zapier",74
+7888475,178,20,Paying,267,240,17,0,,7
+8526480,54,8,Churned,81,37,5,2,"Jira, Slack",64
+6853730,100,53,Paying,250,64,42,0,,100
+6509908,185,51,Paying,185,115,40,0,,6
+4209411,92,65,Churned,0,0,23,3,"MS Team, Azure Cards, Dropbox",16
+5646222,143,57,Paying,357,25,47,0,,12
+8539394,204,60,Churned,102,59,38,5,"Google, Slack, Zapier, Azure Cards, MS Team",67
+5449964,128,5,Churned,0,0,5,5,"Google, Slack, Zapier, Azure Cards, MS Team",85
+4345895,231,58,Churned,346,36,25,4,"Google, Jira, Slack, Dropbox",99
+3647355,135,44,Paying,135,102,32,2,"Jira, Slack",73
+2799963,91,1,Churned,91,60,1,1,Jira,94
+6275478,60,3,Paying,90,84,1,4,"Google, Jira, Slack, Dropbox",79
+1903454,25,11,Churned,12,4,3,2,"MS Team, Azure Cards",8
+7114851,154,10,Paying,231,149,6,3,"Dropbox, Slack, Google",18
+3111745,53,28,Paying,26,16,23,5,"Jira, Google, Slack, Zapier, Dropbox",75
+7591989,156,72,Churned,234,208,40,0,,35
+6948311,354,6,Churned,0,0,2,5,"Google, Slack, Zapier, Azure Cards, MS Team",80
+3274235,22,51,Churned,0,0,17,3,"MS Team, Azure Cards, Dropbox",80
+1834265,96,53,Churned,96,74,22,3,"MS Team, Azure Cards, Dropbox",21
+4445663,140,51,Churned,70,14,25,5,"Jira, Google, Slack, Zapier, Dropbox",60
+1618790,221,3,Churned,331,56,3,0,,84
+7900991,74,43,Paying,37,31,32,0,,28
+1015222,80,28,Paying,120,108,22,3,"Jira, Slack, Zapier",58
+6327558,45,25,Churned,0,0,18,0,,42
+6670124,149,7,Paying,223,93,5,3,"Jira, Slack, Zapier",25
+8082066,39,60,Paying,39,9,49,1,Google,71
+6814606,81,37,Paying,162,107,27,4,"Slack, Zapier, MS Team, Azure Cards",39
+5470977,19,71,Churned,19,0,36,3,"Dropbox, Slack, Google",89
+4202202,75,47,Paying,187,183,35,5,"Jira, Google, Slack, Zapier, Dropbox",48
+7461728,74,26,Paying,148,9,20,5,"Google, Slack, Zapier, Azure Cards, MS Team",88
+7120710,42,73,Churned,42,37,41,5,"Google, Slack, Zapier, Azure Cards, MS Team",0
+4186358,90,1,Churned,0,0,1,2,"Jira, Slack",91
+5593707,90,2,Paying,225,9,0,3,"Dropbox, Slack, Google",100
+2263245,33,3,Churned,33,15,3,4,"Slack, Zapier, MS Team, Azure Cards",93
+5427441,34,13,Paying,17,8,8,2,"Jira, Slack",45
+7306178,96,61,Churned,0,0,27,1,MS Team,100
+8145689,143,9,Paying,143,50,6,3,"MS Team, Azure Cards, Dropbox",17
+1836452,86,17,Paying,129,77,13,2,"Jira, Slack",87
+2340592,132,18,Paying,198,98,13,4,"Slack, Zapier, MS Team, Azure Cards",51
+1116597,20,51,Churned,20,10,27,5,"Google, Slack, Zapier, Azure Cards, MS Team",75
+4840778,55,51,Churned,0,0,23,1,Dropbox,19
+5095695,32,26,Paying,32,11,20,1,Zapier,18
+8683160,182,64,Churned,182,177,31,0,,79
+7664391,8,24,Churned,12,1,9,2,"MS Team, Azure Cards",49
+7399503,45,3,Churned,0,0,2,2,"MS Team, Azure Cards",37
+1919744,48,25,Paying,120,55,17,0,,40
+6208139,134,25,Paying,201,106,21,4,"Slack, Zapier, MS Team, Azure Cards",30
+8017362,47,32,Paying,47,43,22,4,"Google, Jira, Slack, Dropbox",16
+3211906,5,61,Churned,5,0,26,2,"Jira, Slack",17
+7747059,324,2,Churned,324,308,2,4,"Google, Jira, Slack, Dropbox",9
+4296153,32,16,Paying,48,7,12,3,"Dropbox, Slack, Google",54
+5617754,163,35,Paying,407,163,27,4,"Google, Jira, Slack, Dropbox",54
+4875243,99,3,Churned,148,123,3,2,"Jira, Slack",8
+6367199,146,47,Paying,73,51,42,4,"Google, Jira, Slack, Dropbox",83
+5466443,192,39,Paying,96,74,32,0,,90
+1137372,100,42,Paying,250,37,31,5,"Jira, Google, Slack, Zapier, Dropbox",47
+2364020,42,50,Paying,21,12,41,0,,9
+5985499,141,19,Paying,352,44,11,2,"Jira, Zapier",9
+7599473,197,10,Churned,197,37,2,1,Azure Cards,87
+6260613,80,18,Paying,200,28,18,2,"Jira, Zapier",99
+3816471,9,7,Churned,13,0,7,0,,57
+7118152,60,30,Churned,0,0,17,2,"Jira, Slack",72
