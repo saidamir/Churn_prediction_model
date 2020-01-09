@@ -7,3 +7,4 @@ Data consists of a flat file with transactional information for several thousand
 
 Python file contains code with Exploratory Data Analytics including graphs and Machine Learning model - Logistic regression which allows assigning probabilities of churning to the users.
 
+https://github.com/saidamir/Churn_prediction_model/issues/1
