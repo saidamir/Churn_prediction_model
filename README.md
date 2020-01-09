@@ -1,2 +1,9 @@
 # Churn_prediction_model
 Predicting churn based on transactional and behavioral data
+
+Results are presented in pdf file
+
+Data consists of a flat file with transactional information for several thousand users.
+
+Python file contains code with Exploratory Data Analytics including graphs and Machine Learning model - Logistic regression which allows assigning probabilities of churning to the users.
+
